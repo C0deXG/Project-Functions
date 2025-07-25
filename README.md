@@ -10,12 +10,9 @@ This project leverages Large Language Models (LLMs) and program synthesis to gen
 - **Diversity Analysis**: Compares implementations using AST, token, and algorithmic metrics.
 - **Evaluation**: Cross-model verification and reporting.
 
-## Applications
-- **Teaching**: Showcases multiple ways to solve the same problem.
-- **Security**: Diverse code makes reverse-engineering harder.
-- **Optimization**: Enables selection of the most efficient solution.
-- **Robustness**: Multiple implementations increase reliability.
-- **LLM Evaluation**: Tests AI's ability to generate diverse, correct code.
+## Data
+- The data is in task.json(containing the pre data meaning tasks pass to the model to generate the funcitons)
+- Funcitons.json (contaning the function data 2 funcitons per task)
 
 ---
 
