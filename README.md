@@ -1,5 +1,8 @@
 # Generating Diverse Python Function Implementations for the Same Task Using AI and Program Synthesis
 
+##Disclaimer
+- I used my brother labtop to push the repo i don't know why it shows hims at the **contributor** section.
+
 ## Overview
 This project leverages Large Language Models (LLMs) and program synthesis to generate multiple, diverse Python function implementations for the same programming task. The goal is to produce not only correct but also stylistically and algorithmically diverse solutions for each task, enabling applications in pedagogy, code obfuscation, optimization, robustness, and LLM evaluation.
 
