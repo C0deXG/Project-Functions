@@ -1,0 +1,4065 @@
+{
+  "Sum of Two Numbers": [
+    {
+      "inputs": [
+        2,
+        3
+      ],
+      "expected": 5,
+      "code_1_result": 5,
+      "code_1_pass": true,
+      "code_2_result": 5,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        -5,
+        10
+      ],
+      "expected": 5,
+      "code_1_result": 5,
+      "code_1_pass": true,
+      "code_2_result": 5,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        1.5,
+        2.5
+      ],
+      "expected": 4.0,
+      "code_1_result": 4.0,
+      "code_1_pass": true,
+      "code_2_result": 4.0,
+      "code_2_pass": true
+    }
+  ],
+  "Factorial": [
+    {
+      "inputs": [
+        0
+      ],
+      "expected": 1,
+      "code_1_result": 1,
+      "code_1_pass": true,
+      "code_2_result": 1,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        1
+      ],
+      "expected": 1,
+      "code_1_result": 1,
+      "code_1_pass": true,
+      "code_2_result": 1,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        5
+      ],
+      "expected": 120,
+      "code_1_result": 120,
+      "code_1_pass": true,
+      "code_2_result": 120,
+      "code_2_pass": true
+    }
+  ],
+  "Fibonacci Number": [
+    {
+      "inputs": [
+        0
+      ],
+      "expected": 0,
+      "code_1_result": 0,
+      "code_1_pass": true,
+      "code_2_result": 0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        1
+      ],
+      "expected": 1,
+      "code_1_result": 1,
+      "code_1_pass": true,
+      "code_2_result": 1,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        10
+      ],
+      "expected": 55,
+      "code_1_result": 55,
+      "code_1_pass": true,
+      "code_2_result": 55,
+      "code_2_pass": true
+    }
+  ],
+  "Prime Check": [
+    {
+      "inputs": [
+        7
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        10
+      ],
+      "expected": false,
+      "code_1_result": false,
+      "code_1_pass": true,
+      "code_2_result": false,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        2
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    }
+  ],
+  "Reverse String": [
+    {
+      "inputs": [
+        "hello"
+      ],
+      "expected": "olleh",
+      "code_1_result": "olleh",
+      "code_1_pass": true,
+      "code_2_result": "olleh",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        ""
+      ],
+      "expected": "",
+      "code_1_result": "",
+      "code_1_pass": true,
+      "code_2_result": "",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "12345"
+      ],
+      "expected": "54321",
+      "code_1_result": "54321",
+      "code_1_pass": true,
+      "code_2_result": "54321",
+      "code_2_pass": true
+    }
+  ],
+  "Count Vowels": [
+    {
+      "inputs": [
+        "Hello World"
+      ],
+      "expected": 3,
+      "code_1_result": 3,
+      "code_1_pass": true,
+      "code_2_result": 3,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "PYTHON TESTER"
+      ],
+      "expected": 3,
+      "code_1_result": 3,
+      "code_1_pass": true,
+      "code_2_result": 3,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "Rhythm"
+      ],
+      "expected": 0,
+      "code_1_result": 0,
+      "code_1_pass": true,
+      "code_2_result": 0,
+      "code_2_pass": true
+    }
+  ],
+  "Palindrome Check": [
+    {
+      "inputs": [
+        "racecar"
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "hello"
+      ],
+      "expected": false,
+      "code_1_result": false,
+      "code_1_pass": true,
+      "code_2_result": false,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "madam"
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    }
+  ],
+  "GCD": [
+    {
+      "inputs": [
+        48,
+        18
+      ],
+      "expected": 6,
+      "code_1_result": 6,
+      "code_1_pass": true,
+      "code_2_result": 6,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        100,
+        0
+      ],
+      "expected": 100,
+      "code_1_result": 100,
+      "code_1_pass": true,
+      "code_2_result": 100,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        -17,
+        -51
+      ],
+      "expected": 17,
+      "code_1_result": 17,
+      "code_1_pass": true,
+      "code_2_result": 17,
+      "code_2_pass": true
+    }
+  ],
+  "Sum of Digits": [
+    {
+      "inputs": [
+        123
+      ],
+      "expected": 6,
+      "code_1_result": 6,
+      "code_1_pass": true,
+      "code_2_result": 6,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        -456
+      ],
+      "expected": 15,
+      "code_1_result": 15,
+      "code_1_pass": true,
+      "code_2_result": 15,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        0
+      ],
+      "expected": 0,
+      "code_1_result": 0,
+      "code_1_pass": true,
+      "code_2_result": 0,
+      "code_2_pass": true
+    }
+  ],
+  "Remove Duplicates": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          1,
+          3,
+          4,
+          2
+        ]
+      ],
+      "expected": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "code_1_result": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        []
+      ],
+      "expected": [],
+      "code_1_result": [],
+      "code_1_pass": true,
+      "code_2_result": [],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          -1,
+          0,
+          5,
+          -1,
+          5,
+          10
+        ]
+      ],
+      "expected": [
+        -1,
+        0,
+        5,
+        10
+      ],
+      "code_1_result": [
+        -1,
+        0,
+        5,
+        10
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        -1,
+        0,
+        5,
+        10
+      ],
+      "code_2_pass": true
+    }
+  ],
+  "Maximum in List": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "expected": 5,
+      "code_1_result": 5,
+      "code_1_pass": true,
+      "code_2_result": 5,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          -1,
+          -5,
+          -10,
+          -2
+        ]
+      ],
+      "expected": -1,
+      "code_1_result": -1,
+      "code_1_pass": true,
+      "code_2_result": -1,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          10,
+          5,
+          10,
+          8,
+          2
+        ]
+      ],
+      "expected": 10,
+      "code_1_result": 10,
+      "code_1_pass": true,
+      "code_2_result": 10,
+      "code_2_pass": true
+    }
+  ],
+  "Even or Odd": [
+    {
+      "inputs": [
+        2
+      ],
+      "expected": "Even",
+      "code_1_result": "Even",
+      "code_1_pass": true,
+      "code_2_result": "Even",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        7
+      ],
+      "expected": "Odd",
+      "code_1_result": "Odd",
+      "code_1_pass": true,
+      "code_2_result": "Odd",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        0
+      ],
+      "expected": "Even",
+      "code_1_result": "Even",
+      "code_1_pass": true,
+      "code_2_result": "Even",
+      "code_2_pass": true
+    }
+  ],
+  "LCM": [
+    {
+      "inputs": [
+        4,
+        6
+      ],
+      "expected": 12,
+      "code_1_result": 12,
+      "code_1_pass": true,
+      "code_2_result": 12,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        15,
+        0
+      ],
+      "expected": 0,
+      "code_1_result": 0,
+      "code_1_pass": true,
+      "code_2_result": 0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        -5,
+        7
+      ],
+      "expected": 35,
+      "code_1_result": 35,
+      "code_1_pass": true,
+      "code_2_result": 35,
+      "code_2_pass": true
+    }
+  ],
+  "Convert Celsius to Fahrenheit": [
+    {
+      "inputs": [
+        0
+      ],
+      "expected": 32.0,
+      "code_1_result": 32.0,
+      "code_1_pass": true,
+      "code_2_result": 32.0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        100
+      ],
+      "expected": 212.0,
+      "code_1_result": 212.0,
+      "code_1_pass": true,
+      "code_2_result": 212.0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        -40
+      ],
+      "expected": -40.0,
+      "code_1_result": -40.0,
+      "code_1_pass": true,
+      "code_2_result": -40.0,
+      "code_2_pass": true
+    }
+  ],
+  "Count Words": [
+    {
+      "inputs": [
+        "Hello world"
+      ],
+      "expected": 2,
+      "code_1_result": 2,
+      "code_1_pass": true,
+      "code_2_result": 2,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        ""
+      ],
+      "expected": 0,
+      "code_1_result": 0,
+      "code_1_pass": true,
+      "code_2_result": 0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "  this   string   has  extra   spaces  "
+      ],
+      "expected": 5,
+      "code_1_result": 5,
+      "code_1_pass": true,
+      "code_2_result": 5,
+      "code_2_pass": true
+    }
+  ],
+  "Power Function": [
+    {
+      "inputs": [
+        2,
+        3
+      ],
+      "expected": 8,
+      "code_1_result": 8,
+      "code_1_pass": true,
+      "code_2_result": 8,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        5,
+        0
+      ],
+      "expected": 1,
+      "code_1_result": 1,
+      "code_1_pass": true,
+      "code_2_result": 1,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        4,
+        -2
+      ],
+      "expected": 0.0625,
+      "code_1_result": 0.0625,
+      "code_1_pass": true,
+      "code_2_result": 0.0625,
+      "code_2_pass": true
+    }
+  ],
+  "Check Anagram": [
+    {
+      "inputs": [
+        "listen",
+        "silent"
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "hello",
+        "world"
+      ],
+      "expected": false,
+      "code_1_result": false,
+      "code_1_pass": true,
+      "code_2_result": false,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "Anagram",
+        "nagaram"
+      ],
+      "expected": false,
+      "code_1_result": false,
+      "code_1_pass": true,
+      "code_2_result": false,
+      "code_2_pass": true
+    }
+  ],
+  "Find Second Largest": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "expected": 4,
+      "code_1_result": 4,
+      "code_1_pass": true,
+      "code_2_result": 4,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          10,
+          5,
+          10,
+          8,
+          8,
+          12
+        ]
+      ],
+      "expected": 10,
+      "code_1_result": 10,
+      "code_1_pass": true,
+      "code_2_result": 10,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          -1,
+          -5,
+          0,
+          10,
+          -2,
+          4
+        ]
+      ],
+      "expected": 4,
+      "code_1_result": 4,
+      "code_1_pass": true,
+      "code_2_result": 4,
+      "code_2_pass": true
+    }
+  ],
+  "Count Frequency": [
+    {
+      "inputs": [
+        [
+          "apple",
+          "banana",
+          "apple",
+          "orange",
+          "banana",
+          "apple"
+        ]
+      ],
+      "expected": {
+        "apple": 3,
+        "banana": 2,
+        "orange": 1
+      },
+      "code_1_result": {
+        "apple": 3,
+        "banana": 2,
+        "orange": 1
+      },
+      "code_1_pass": true,
+      "code_2_result": {
+        "apple": 3,
+        "banana": 2,
+        "orange": 1
+      },
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        []
+      ],
+      "expected": {},
+      "code_1_result": {},
+      "code_1_pass": true,
+      "code_2_result": {},
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          1,
+          2,
+          1,
+          4
+        ]
+      ],
+      "expected": {
+        "1": 3,
+        "2": 2,
+        "3": 1,
+        "4": 1
+      },
+      "code_1_result": {
+        "1": 3,
+        "2": 2,
+        "3": 1,
+        "4": 1
+      },
+      "code_1_pass": false,
+      "code_2_result": {
+        "1": 3,
+        "2": 2,
+        "3": 1,
+        "4": 1
+      },
+      "code_2_pass": false
+    }
+  ],
+  "Sum of List": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "expected": 15,
+      "code_1_result": 15,
+      "code_1_pass": true,
+      "code_2_result": 15,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          -10,
+          5,
+          2,
+          -3
+        ]
+      ],
+      "expected": -6,
+      "code_1_result": -6,
+      "code_1_pass": true,
+      "code_2_result": -6,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        []
+      ],
+      "expected": 0,
+      "code_1_result": 0,
+      "code_1_pass": true,
+      "code_2_result": 0,
+      "code_2_pass": true
+    }
+  ],
+  "String to Uppercase": [
+    {
+      "inputs": [
+        "hello world"
+      ],
+      "expected": "HELLO WORLD",
+      "code_1_result": "HELLO WORLD",
+      "code_1_pass": true,
+      "code_2_result": "HELLO WORLD",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "Python Tester"
+      ],
+      "expected": "PYTHON TESTER",
+      "code_1_result": "PYTHON TESTER",
+      "code_1_pass": true,
+      "code_2_result": "PYTHON TESTER",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "123 TeSt!"
+      ],
+      "expected": "123 TEST!",
+      "code_1_result": "123 TEST!",
+      "code_1_pass": true,
+      "code_2_result": "123 TEST!",
+      "code_2_pass": true
+    }
+  ],
+  "Remove Punctuation": [
+    {
+      "inputs": [
+        "Hello, world! This is a test."
+      ],
+      "expected": "Hello world This is a test",
+      "code_1_result": "Hello world This is a test",
+      "code_1_pass": true,
+      "code_2_result": "Hello world This is a test",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "This string has no punctuation"
+      ],
+      "expected": "This string has no punctuation",
+      "code_1_result": "This string has no punctuation",
+      "code_1_pass": true,
+      "code_2_result": "This string has no punctuation",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "!@#$%^&*()_+=-`~[]\\{}|;':\",./<>?"
+      ],
+      "expected": "",
+      "code_1_result": "",
+      "code_1_pass": true,
+      "code_2_result": "",
+      "code_2_pass": true
+    }
+  ],
+  "Character Frequency": [
+    {
+      "inputs": [
+        "hello world"
+      ],
+      "expected": {
+        "h": 1,
+        "e": 1,
+        "l": 3,
+        "o": 2,
+        " ": 1,
+        "w": 1,
+        "r": 1,
+        "d": 1
+      },
+      "code_1_result": {
+        "h": 1,
+        "e": 1,
+        "l": 3,
+        "o": 2,
+        " ": 1,
+        "w": 1,
+        "r": 1,
+        "d": 1
+      },
+      "code_1_pass": true,
+      "code_2_result": {
+        "h": 1,
+        "e": 1,
+        "l": 3,
+        "o": 2,
+        " ": 1,
+        "w": 1,
+        "r": 1,
+        "d": 1
+      },
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "Python 3.9!"
+      ],
+      "expected": {
+        "P": 1,
+        "y": 1,
+        "t": 1,
+        "h": 1,
+        "o": 1,
+        "n": 1,
+        " ": 1,
+        "3": 1,
+        ".": 1,
+        "9": 1,
+        "!": 1
+      },
+      "code_1_result": {
+        "P": 1,
+        "y": 1,
+        "t": 1,
+        "h": 1,
+        "o": 1,
+        "n": 1,
+        " ": 1,
+        "3": 1,
+        ".": 1,
+        "9": 1,
+        "!": 1
+      },
+      "code_1_pass": true,
+      "code_2_result": {
+        "P": 1,
+        "y": 1,
+        "t": 1,
+        "h": 1,
+        "o": 1,
+        "n": 1,
+        " ": 1,
+        "3": 1,
+        ".": 1,
+        "9": 1,
+        "!": 1
+      },
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        ""
+      ],
+      "expected": {},
+      "code_1_result": {},
+      "code_1_pass": true,
+      "code_2_result": {},
+      "code_2_pass": true
+    }
+  ],
+  "Sort List": [
+    {
+      "inputs": [
+        [
+          3,
+          1,
+          4,
+          1,
+          5,
+          9,
+          2,
+          6
+        ]
+      ],
+      "expected": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "code_1_result": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          -5,
+          10,
+          -15,
+          0,
+          20
+        ]
+      ],
+      "expected": [
+        -15,
+        -5,
+        0,
+        10,
+        20
+      ],
+      "code_1_result": [
+        -15,
+        -5,
+        0,
+        10,
+        20
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        -15,
+        -5,
+        0,
+        10,
+        20
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        []
+      ],
+      "expected": [],
+      "code_1_result": [],
+      "code_1_pass": true,
+      "code_2_result": [],
+      "code_2_pass": true
+    }
+  ],
+  "Find Common Elements": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      ],
+      "expected": [
+        4,
+        5
+      ],
+      "code_1_result": [
+        4,
+        5
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        4,
+        5
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          "apple",
+          "banana",
+          "cherry"
+        ],
+        [
+          "orange",
+          "grape",
+          "kiwi"
+        ]
+      ],
+      "expected": [],
+      "code_1_result": [],
+      "code_1_pass": true,
+      "code_2_result": [],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          1,
+          "hello",
+          3,
+          1
+        ],
+        [
+          "world",
+          "hello",
+          4,
+          1
+        ]
+      ],
+      "expected": [
+        1,
+        "hello"
+      ],
+      "code_1_result": [
+        1,
+        "hello"
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        1,
+        "hello"
+      ],
+      "code_2_pass": true
+    }
+  ],
+  "Filter Even Numbers": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      ],
+      "expected": [
+        2,
+        4,
+        6
+      ],
+      "code_1_result": [
+        2,
+        4,
+        6
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        2,
+        4,
+        6
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          -2,
+          -1,
+          0,
+          1,
+          2
+        ]
+      ],
+      "expected": [
+        -2,
+        0,
+        2
+      ],
+      "code_1_result": [
+        -2,
+        0,
+        2
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        -2,
+        0,
+        2
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          1,
+          3,
+          5,
+          7
+        ]
+      ],
+      "expected": [],
+      "code_1_result": [],
+      "code_1_pass": true,
+      "code_2_result": [],
+      "code_2_pass": true
+    }
+  ],
+  "Multiplication Table": [
+    {
+      "inputs": [
+        5
+      ],
+      "expected": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          4,
+          20
+        ],
+        [
+          5,
+          25
+        ],
+        [
+          6,
+          30
+        ],
+        [
+          7,
+          35
+        ],
+        [
+          8,
+          40
+        ],
+        [
+          9,
+          45
+        ],
+        [
+          10,
+          50
+        ]
+      ],
+      "code_1_result": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          4,
+          20
+        ],
+        [
+          5,
+          25
+        ],
+        [
+          6,
+          30
+        ],
+        [
+          7,
+          35
+        ],
+        [
+          8,
+          40
+        ],
+        [
+          9,
+          45
+        ],
+        [
+          10,
+          50
+        ]
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          4,
+          20
+        ],
+        [
+          5,
+          25
+        ],
+        [
+          6,
+          30
+        ],
+        [
+          7,
+          35
+        ],
+        [
+          8,
+          40
+        ],
+        [
+          9,
+          45
+        ],
+        [
+          10,
+          50
+        ]
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        0
+      ],
+      "expected": [
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          7,
+          0
+        ],
+        [
+          8,
+          0
+        ],
+        [
+          9,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "code_1_result": [
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          7,
+          0
+        ],
+        [
+          8,
+          0
+        ],
+        [
+          9,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          7,
+          0
+        ],
+        [
+          8,
+          0
+        ],
+        [
+          9,
+          0
+        ],
+        [
+          10,
+          0
+        ]
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        -3
+      ],
+      "expected": [
+        [
+          1,
+          -3
+        ],
+        [
+          2,
+          -6
+        ],
+        [
+          3,
+          -9
+        ],
+        [
+          4,
+          -12
+        ],
+        [
+          5,
+          -15
+        ],
+        [
+          6,
+          -18
+        ],
+        [
+          7,
+          -21
+        ],
+        [
+          8,
+          -24
+        ],
+        [
+          9,
+          -27
+        ],
+        [
+          10,
+          -30
+        ]
+      ],
+      "code_1_result": [
+        [
+          1,
+          -3
+        ],
+        [
+          2,
+          -6
+        ],
+        [
+          3,
+          -9
+        ],
+        [
+          4,
+          -12
+        ],
+        [
+          5,
+          -15
+        ],
+        [
+          6,
+          -18
+        ],
+        [
+          7,
+          -21
+        ],
+        [
+          8,
+          -24
+        ],
+        [
+          9,
+          -27
+        ],
+        [
+          10,
+          -30
+        ]
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        [
+          1,
+          -3
+        ],
+        [
+          2,
+          -6
+        ],
+        [
+          3,
+          -9
+        ],
+        [
+          4,
+          -12
+        ],
+        [
+          5,
+          -15
+        ],
+        [
+          6,
+          -18
+        ],
+        [
+          7,
+          -21
+        ],
+        [
+          8,
+          -24
+        ],
+        [
+          9,
+          -27
+        ],
+        [
+          10,
+          -30
+        ]
+      ],
+      "code_2_pass": true
+    }
+  ],
+  "Convert Decimal to Binary": [
+    {
+      "inputs": [
+        13
+      ],
+      "expected": "1101",
+      "code_1_result": "1101",
+      "code_1_pass": true,
+      "code_2_result": "1101",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        0
+      ],
+      "expected": "0",
+      "code_1_result": "0",
+      "code_1_pass": true,
+      "code_2_result": "0",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        -42
+      ],
+      "expected": "-101010",
+      "code_1_result": "-101010",
+      "code_1_pass": true,
+      "code_2_result": "-101010",
+      "code_2_pass": true
+    }
+  ],
+  "Convert Binary to Decimal": [
+    {
+      "inputs": [
+        "1010"
+      ],
+      "expected": 10,
+      "code_1_result": 10,
+      "code_1_pass": true,
+      "code_2_result": 10,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "0"
+      ],
+      "expected": 0,
+      "code_1_result": 0,
+      "code_1_pass": true,
+      "code_2_result": 0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "11111111"
+      ],
+      "expected": 255,
+      "code_1_result": 255,
+      "code_1_pass": true,
+      "code_2_result": 255,
+      "code_2_pass": true
+    }
+  ],
+  "Find Median": [
+    {
+      "inputs": [
+        [
+          1,
+          3,
+          2,
+          5,
+          4
+        ]
+      ],
+      "expected": 3,
+      "code_1_result": 3,
+      "code_1_pass": true,
+      "code_2_result": 3,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          1,
+          6,
+          2,
+          8,
+          3,
+          10
+        ]
+      ],
+      "expected": 4.5,
+      "code_1_result": 4.5,
+      "code_1_pass": true,
+      "code_2_result": 4.5,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          -5,
+          3,
+          0,
+          -1,
+          10
+        ]
+      ],
+      "expected": 0,
+      "code_1_result": 0,
+      "code_1_pass": true,
+      "code_2_result": 0,
+      "code_2_pass": true
+    }
+  ],
+  "Transpose Matrix": [],
+  "Flatten Nested List": [
+    {
+      "inputs": [
+        [
+          [
+            1,
+            2,
+            [
+              3,
+              4
+            ]
+          ],
+          5,
+          [
+            6
+          ]
+        ]
+      ],
+      "expected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "code_1_result": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          [
+            1,
+            [
+              2,
+              [
+                3,
+                [
+                  4,
+                  [
+                    5
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      "expected": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_1_result": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          [],
+          [
+            1,
+            []
+          ],
+          [
+            []
+          ],
+          2,
+          [
+            [
+              3
+            ]
+          ],
+          4,
+          []
+        ]
+      ],
+      "expected": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "code_1_result": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "code_2_pass": true
+    }
+  ],
+  "Count Lowercase Letters": [],
+  "Caesar Cipher": [
+    {
+      "inputs": [
+        "hello world",
+        3
+      ],
+      "expected": "khoor zruog",
+      "code_1_result": "khoor zruog",
+      "code_1_pass": true,
+      "code_2_result": "khoor zruog",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "The quick brown fox jumps over the lazy dog!",
+        13
+      ],
+      "expected": "Gur dhvpx oebja sbk whzcf bire gur ynml qbt!",
+      "code_1_result": "Gur dhvpx oebja sbk whzcf bire gur ynml qbt!",
+      "code_1_pass": true,
+      "code_2_result": "Gur dhvpx oebja sbk whzcf bire gur ynml qbt!",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "Ciphering 1s FUN!",
+        -5
+      ],
+      "expected": "Xdmczofsl 1n APS!",
+      "code_1_result": "Xdkczmdib 1n API!",
+      "code_1_pass": false,
+      "code_2_result": "Xdkczmdib 1n API!",
+      "code_2_pass": false
+    }
+  ],
+  "Armstrong Number Check": [
+    {
+      "inputs": [
+        9
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        153
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        10
+      ],
+      "expected": false,
+      "code_1_result": false,
+      "code_1_pass": true,
+      "code_2_result": false,
+      "code_2_pass": true
+    }
+  ],
+  "Primes in Range": [
+    {
+      "inputs": [
+        10,
+        30
+      ],
+      "expected": [
+        11,
+        13,
+        17,
+        19,
+        23,
+        29
+      ],
+      "code_1_result": [
+        11,
+        13,
+        17,
+        19,
+        23,
+        29
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        11,
+        13,
+        17,
+        19,
+        23,
+        29
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        0,
+        10
+      ],
+      "expected": [
+        2,
+        3,
+        5,
+        7
+      ],
+      "code_1_result": [
+        2,
+        3,
+        5,
+        7
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        2,
+        3,
+        5,
+        7
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        24,
+        28
+      ],
+      "expected": [],
+      "code_1_result": [],
+      "code_1_pass": true,
+      "code_2_result": [],
+      "code_2_pass": true
+    }
+  ],
+  "Find Mode": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          2,
+          3,
+          4,
+          2
+        ]
+      ],
+      "expected": 2,
+      "code_1_result": 2,
+      "code_1_pass": true,
+      "code_2_result": 2,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        []
+      ],
+      "expected": null,
+      "code_1_result": null,
+      "code_1_pass": true,
+      "code_2_result": null,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          "apple",
+          "banana",
+          "apple",
+          "cherry"
+        ]
+      ],
+      "expected": "apple",
+      "code_1_result": "apple",
+      "code_1_pass": true,
+      "code_2_result": "apple",
+      "code_2_pass": true
+    }
+  ],
+  "List Rotation": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        2
+      ],
+      "expected": [
+        4,
+        5,
+        1,
+        2,
+        3
+      ],
+      "code_1_result": [
+        4,
+        5,
+        1,
+        2,
+        3
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        4,
+        5,
+        1,
+        2,
+        3
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          "a",
+          "b",
+          "c"
+        ],
+        4
+      ],
+      "expected": [
+        "c",
+        "a",
+        "b"
+      ],
+      "code_1_result": [
+        "c",
+        "a",
+        "b"
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        "c",
+        "a",
+        "b"
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          10,
+          20,
+          30
+        ],
+        0
+      ],
+      "expected": [
+        10,
+        20,
+        30
+      ],
+      "code_1_result": [
+        10,
+        20,
+        30
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        10,
+        20,
+        30
+      ],
+      "code_2_pass": true
+    }
+  ],
+  "Missing Number Finder": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          4,
+          5
+        ]
+      ],
+      "expected": 3,
+      "code_1_result": 3,
+      "code_1_pass": true,
+      "code_2_result": 3,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          2,
+          3,
+          1,
+          5
+        ]
+      ],
+      "expected": 4,
+      "code_1_result": 4,
+      "code_1_pass": true,
+      "code_2_result": 4,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "expected": 10,
+      "code_1_result": 10,
+      "code_1_pass": true,
+      "code_2_result": 10,
+      "code_2_pass": true
+    }
+  ],
+  "Stop Words Removal": [
+    {
+      "inputs": [
+        "This is a simple test sentence",
+        [
+          "is",
+          "a",
+          "this"
+        ]
+      ],
+      "expected": "simple test sentence",
+      "code_1_result": "simple test sentence",
+      "code_1_pass": true,
+      "code_2_result": "simple test sentence",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "Python is an amazing language, ISNT it?",
+        [
+          "is",
+          "an",
+          "it",
+          "isnt"
+        ]
+      ],
+      "expected": "Python amazing language,",
+      "code_1_result": "Python amazing language, it?",
+      "code_1_pass": false,
+      "code_2_result": "Python amazing language, ?",
+      "code_2_pass": false
+    },
+    {
+      "inputs": [
+        "All words here will be removed",
+        [
+          "all",
+          "words",
+          "here",
+          "will",
+          "be",
+          "removed"
+        ]
+      ],
+      "expected": "",
+      "code_1_result": "",
+      "code_1_pass": true,
+      "code_2_result": "",
+      "code_2_pass": true
+    }
+  ],
+  "Merge Sorted Lists": [
+    {
+      "inputs": [
+        [
+          1,
+          3,
+          5,
+          7
+        ],
+        [
+          2,
+          4,
+          6,
+          8
+        ]
+      ],
+      "expected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "code_1_result": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          10,
+          20,
+          30
+        ],
+        []
+      ],
+      "expected": [
+        10,
+        20,
+        30
+      ],
+      "code_1_result": [
+        10,
+        20,
+        30
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        10,
+        20,
+        30
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          -5,
+          0,
+          5,
+          15
+        ],
+        [
+          -10,
+          0,
+          10
+        ]
+      ],
+      "expected": [
+        -10,
+        -5,
+        0,
+        0,
+        5,
+        10,
+        15
+      ],
+      "code_1_result": [
+        -10,
+        -5,
+        0,
+        0,
+        5,
+        10,
+        15
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        -10,
+        -5,
+        0,
+        0,
+        5,
+        10,
+        15
+      ],
+      "code_2_pass": true
+    }
+  ],
+  "Unique Random Numbers": [
+    {
+      "inputs": [
+        3,
+        10
+      ],
+      "expected": [
+        2,
+        8,
+        5
+      ],
+      "code_1_result": [
+        4,
+        1,
+        9
+      ],
+      "code_1_pass": false,
+      "code_2_result": [
+        1,
+        2,
+        6
+      ],
+      "code_2_pass": false
+    },
+    {
+      "inputs": [
+        5,
+        5
+      ],
+      "expected": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_1_result": [
+        2,
+        3,
+        5,
+        4,
+        1
+      ],
+      "code_1_pass": false,
+      "code_2_result": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        1,
+        100
+      ],
+      "expected": [
+        42
+      ],
+      "code_1_result": [
+        98
+      ],
+      "code_1_pass": false,
+      "code_2_result": [
+        7
+      ],
+      "code_2_pass": false
+    }
+  ],
+  "Pair Sum Finder": [
+    {
+      "inputs": [
+        [
+          8,
+          7,
+          2,
+          5,
+          3,
+          1
+        ],
+        10
+      ],
+      "expected": [
+        8,
+        2
+      ],
+      "code_1_result": [
+        8,
+        2
+      ],
+      "code_1_pass": false,
+      "code_2_result": [
+        2,
+        8
+      ],
+      "code_2_pass": false
+    },
+    {
+      "inputs": [
+        [
+          5,
+          2,
+          6,
+          8,
+          1,
+          9
+        ],
+        12
+      ],
+      "expected": null,
+      "code_1_result": null,
+      "code_1_pass": true,
+      "code_2_result": null,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          -3,
+          0,
+          1,
+          3,
+          5,
+          8
+        ],
+        0
+      ],
+      "expected": [
+        -3,
+        3
+      ],
+      "code_1_result": [
+        -3,
+        3
+      ],
+      "code_1_pass": false,
+      "code_2_result": [
+        -3,
+        3
+      ],
+      "code_2_pass": false
+    }
+  ],
+  "Compound Interest Calculator": [
+    {
+      "inputs": [
+        1000.0,
+        5.0,
+        4,
+        10
+      ],
+      "expected": 1643.6194644634281,
+      "code_1_result": 1643.6194634870103,
+      "code_1_pass": false,
+      "code_2_result": 1643.6194634870108,
+      "code_2_pass": false
+    },
+    {
+      "inputs": [
+        1500.0,
+        4.3,
+        12,
+        6
+      ],
+      "expected": 1938.836822134108,
+      "code_1_result": 1940.6131103570615,
+      "code_1_pass": false,
+      "code_2_result": 1940.6131103570617,
+      "code_2_pass": false
+    },
+    {
+      "inputs": [
+        2000.0,
+        0.0,
+        1,
+        10
+      ],
+      "expected": 2000.0,
+      "code_1_result": 2000.0,
+      "code_1_pass": true,
+      "code_2_result": 2000.0,
+      "code_2_pass": true
+    }
+  ],
+  "Parentheses Balance Check": [
+    {
+      "inputs": [
+        "()[]{}"
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "([)]"
+      ],
+      "expected": false,
+      "code_1_result": false,
+      "code_1_pass": true,
+      "code_2_result": false,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "((()"
+      ],
+      "expected": false,
+      "code_1_result": false,
+      "code_1_pass": true,
+      "code_2_result": false,
+      "code_2_pass": true
+    }
+  ],
+  "List Average": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "expected": 3.0,
+      "code_1_result": 3.0,
+      "code_1_pass": true,
+      "code_2_result": 3.0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        []
+      ],
+      "expected": 0.0,
+      "code_1_result": 0.0,
+      "code_1_pass": true,
+      "code_2_result": 0.0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          -1,
+          0,
+          1,
+          2.5,
+          -5.5
+        ]
+      ],
+      "expected": -0.6,
+      "code_1_result": -0.6,
+      "code_1_pass": true,
+      "code_2_result": -0.6,
+      "code_2_pass": true
+    }
+  ],
+  "Hypotenuse Calculator": [
+    {
+      "inputs": [
+        3,
+        4
+      ],
+      "expected": 5.0,
+      "code_1_result": 5.0,
+      "code_1_pass": true,
+      "code_2_result": 5.0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        5,
+        12
+      ],
+      "expected": 13.0,
+      "code_1_result": 13.0,
+      "code_1_pass": true,
+      "code_2_result": 13.0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        1.5,
+        2.0
+      ],
+      "expected": 2.5,
+      "code_1_result": 2.5,
+      "code_1_pass": true,
+      "code_2_result": 2.5,
+      "code_2_pass": true
+    }
+  ],
+  "Pangram Check": [
+    {
+      "inputs": [
+        "The quick brown fox jumps over the lazy dog"
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "This is not a pangram"
+      ],
+      "expected": false,
+      "code_1_result": false,
+      "code_1_pass": true,
+      "code_2_result": false,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "Pack my box with five dozen liquor jugs. 123!"
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    }
+  ],
+  "Leap Year Check": [
+    {
+      "inputs": [
+        2024
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        1900
+      ],
+      "expected": false,
+      "code_1_result": false,
+      "code_1_pass": true,
+      "code_2_result": false,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        2000
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    }
+  ],
+  "Extract Digits": [
+    {
+      "inputs": [
+        "abc123xyz45"
+      ],
+      "expected": "12345",
+      "code_1_result": "12345",
+      "code_1_pass": true,
+      "code_2_result": "12345",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "There are no digits here."
+      ],
+      "expected": "",
+      "code_1_result": "",
+      "code_1_pass": true,
+      "code_2_result": "",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "Phone: (123) 456-7890"
+      ],
+      "expected": "1234567890",
+      "code_1_result": "1234567890",
+      "code_1_pass": true,
+      "code_2_result": "1234567890",
+      "code_2_pass": true
+    }
+  ],
+  "Cumulative Sum List": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "expected": [
+        1,
+        3,
+        6,
+        10
+      ],
+      "code_1_result": [
+        1,
+        3,
+        6,
+        10
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        1,
+        3,
+        6,
+        10
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        []
+      ],
+      "expected": [],
+      "code_1_result": [],
+      "code_1_pass": true,
+      "code_2_result": [],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          10,
+          -5,
+          8,
+          0,
+          -3
+        ]
+      ],
+      "expected": [
+        10,
+        5,
+        13,
+        13,
+        10
+      ],
+      "code_1_result": [
+        10,
+        5,
+        13,
+        13,
+        10
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        10,
+        5,
+        13,
+        13,
+        10
+      ],
+      "code_2_pass": true
+    }
+  ],
+  "Isogram Check": [
+    {
+      "inputs": [
+        "Dermatoglyphics"
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "moOse"
+      ],
+      "expected": false,
+      "code_1_result": false,
+      "code_1_pass": true,
+      "code_2_result": false,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        ""
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    }
+  ],
+  "Sort Dictionary by Value": [
+    {
+      "inputs": [
+        {
+          "c": 3,
+          "a": 1,
+          "b": 2
+        }
+      ],
+      "expected": [
+        [
+          "a",
+          1
+        ],
+        [
+          "b",
+          2
+        ],
+        [
+          "c",
+          3
+        ]
+      ],
+      "code_1_result": [
+        [
+          "a",
+          1
+        ],
+        [
+          "b",
+          2
+        ],
+        [
+          "c",
+          3
+        ]
+      ],
+      "code_1_pass": false,
+      "code_2_result": [
+        [
+          "a",
+          1
+        ],
+        [
+          "b",
+          2
+        ],
+        [
+          "c",
+          3
+        ]
+      ],
+      "code_2_pass": false
+    },
+    {
+      "inputs": [
+        {
+          "apple": 5,
+          "banana": 2,
+          "cherry": 5,
+          "date": 1
+        }
+      ],
+      "expected": [
+        [
+          "date",
+          1
+        ],
+        [
+          "banana",
+          2
+        ],
+        [
+          "apple",
+          5
+        ],
+        [
+          "cherry",
+          5
+        ]
+      ],
+      "code_1_result": [
+        [
+          "date",
+          1
+        ],
+        [
+          "banana",
+          2
+        ],
+        [
+          "apple",
+          5
+        ],
+        [
+          "cherry",
+          5
+        ]
+      ],
+      "code_1_pass": false,
+      "code_2_result": [
+        [
+          "date",
+          1
+        ],
+        [
+          "banana",
+          2
+        ],
+        [
+          "apple",
+          5
+        ],
+        [
+          "cherry",
+          5
+        ]
+      ],
+      "code_2_pass": false
+    },
+    {
+      "inputs": [
+        {}
+      ],
+      "expected": [],
+      "code_1_result": [],
+      "code_1_pass": true,
+      "code_2_result": [],
+      "code_2_pass": true
+    }
+  ],
+  "Perfect Number Check": [
+    {
+      "inputs": [
+        6
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        12
+      ],
+      "expected": false,
+      "code_1_result": false,
+      "code_1_pass": true,
+      "code_2_result": false,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        1
+      ],
+      "expected": false,
+      "code_1_result": false,
+      "code_1_pass": true,
+      "code_2_result": false,
+      "code_2_pass": true
+    }
+  ],
+  "Running Maximum": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "expected": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_1_result": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          10,
+          2,
+          8,
+          15,
+          12,
+          15
+        ]
+      ],
+      "expected": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        15
+      ],
+      "code_1_result": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        15
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        15
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          -5,
+          -2,
+          -8,
+          -1,
+          -10
+        ]
+      ],
+      "expected": [
+        -5,
+        -2,
+        -2,
+        -1,
+        -1
+      ],
+      "code_1_result": [
+        -5,
+        -2,
+        -2,
+        -1,
+        -1
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        -5,
+        -2,
+        -2,
+        -1,
+        -1
+      ],
+      "code_2_pass": true
+    }
+  ],
+  "String Rotation": [
+    {
+      "inputs": [
+        "abcdef",
+        2
+      ],
+      "expected": "cdefab",
+      "code_1_result": "cdefab",
+      "code_1_pass": true,
+      "code_2_result": "cdefab",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "Python",
+        8
+      ],
+      "expected": "thonPy",
+      "code_1_result": "thonPy",
+      "code_1_pass": true,
+      "code_2_result": "thonPy",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "12345",
+        5
+      ],
+      "expected": "12345",
+      "code_1_result": "12345",
+      "code_1_pass": true,
+      "code_2_result": "12345",
+      "code_2_pass": true
+    }
+  ],
+  "Remove Element": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          6,
+          3,
+          4,
+          5,
+          6
+        ],
+        6
+      ],
+      "expected": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_1_result": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        7
+      ],
+      "expected": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_1_result": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [],
+        1
+      ],
+      "expected": [],
+      "code_1_result": [],
+      "code_1_pass": true,
+      "code_2_result": [],
+      "code_2_pass": true
+    }
+  ],
+  "Longest Word Finder": [
+    {
+      "inputs": [
+        "The quick brown fox jumps over the lazy dog"
+      ],
+      "expected": "quick",
+      "code_1_result": "quick",
+      "code_1_pass": true,
+      "code_2_result": "quick",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        ""
+      ],
+      "expected": "",
+      "code_1_result": "",
+      "code_1_pass": true,
+      "code_2_result": "",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "What is the longest-word here?"
+      ],
+      "expected": "longest-word",
+      "code_1_result": "longest-word",
+      "code_1_pass": true,
+      "code_2_result": "longest-word",
+      "code_2_pass": true
+    }
+  ],
+  "Unique Characters": [
+    {
+      "inputs": [
+        "hello"
+      ],
+      "expected": "helo",
+      "code_1_result": "helo",
+      "code_1_pass": true,
+      "code_2_result": "helo",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "abracadabra"
+      ],
+      "expected": "abrcd",
+      "code_1_result": "abrcd",
+      "code_1_pass": true,
+      "code_2_result": "abrcd",
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "programming is fun"
+      ],
+      "expected": "progamin sfu",
+      "code_1_result": "progamin sfu",
+      "code_1_pass": true,
+      "code_2_result": "progamin sfu",
+      "code_2_pass": true
+    }
+  ],
+  "Validate IPv4 Address": [
+    {
+      "inputs": [
+        "192.168.1.1"
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "0.0.0.0"
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "255.255.255.255"
+      ],
+      "expected": true,
+      "code_1_result": true,
+      "code_1_pass": true,
+      "code_2_result": true,
+      "code_2_pass": true
+    }
+  ],
+  "Generate Power Set": [
+    {
+      "inputs": [
+        []
+      ],
+      "expected": [
+        []
+      ],
+      "code_1_result": [
+        []
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        []
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          1,
+          2
+        ]
+      ],
+      "expected": [
+        [],
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "code_1_result": [
+        [],
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        [],
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          "a",
+          "b",
+          "c"
+        ]
+      ],
+      "expected": [
+        [],
+        [
+          "a"
+        ],
+        [
+          "b"
+        ],
+        [
+          "a",
+          "b"
+        ],
+        [
+          "c"
+        ],
+        [
+          "a",
+          "c"
+        ],
+        [
+          "b",
+          "c"
+        ],
+        [
+          "a",
+          "b",
+          "c"
+        ]
+      ],
+      "code_1_result": [
+        [],
+        [
+          "a"
+        ],
+        [
+          "b"
+        ],
+        [
+          "a",
+          "b"
+        ],
+        [
+          "c"
+        ],
+        [
+          "a",
+          "c"
+        ],
+        [
+          "b",
+          "c"
+        ],
+        [
+          "a",
+          "b",
+          "c"
+        ]
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        [],
+        [
+          "a"
+        ],
+        [
+          "b"
+        ],
+        [
+          "c"
+        ],
+        [
+          "a",
+          "b"
+        ],
+        [
+          "a",
+          "c"
+        ],
+        [
+          "b",
+          "c"
+        ],
+        [
+          "a",
+          "b",
+          "c"
+        ]
+      ],
+      "code_2_pass": false
+    }
+  ],
+  "Matrix Diagonal Sum": [
+    {
+      "inputs": [
+        [
+          [
+            1,
+            2,
+            3
+          ],
+          [
+            4,
+            5,
+            6
+          ],
+          [
+            7,
+            8,
+            9
+          ]
+        ]
+      ],
+      "expected": 15,
+      "code_1_result": 15,
+      "code_1_pass": true,
+      "code_2_result": 15,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          [
+            -5,
+            0,
+            1
+          ],
+          [
+            2,
+            10,
+            3
+          ],
+          [
+            4,
+            5,
+            -5
+          ]
+        ]
+      ],
+      "expected": 0,
+      "code_1_result": 0,
+      "code_1_pass": true,
+      "code_2_result": 0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          [
+            100
+          ]
+        ]
+      ],
+      "expected": 100,
+      "code_1_result": 100,
+      "code_1_pass": true,
+      "code_2_result": 100,
+      "code_2_pass": true
+    }
+  ],
+  "Count Set Bits": [
+    {
+      "inputs": [
+        0
+      ],
+      "expected": 0,
+      "code_1_result": 0,
+      "code_1_pass": true,
+      "code_2_result": 0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        10
+      ],
+      "expected": 2,
+      "code_1_result": 2,
+      "code_1_pass": true,
+      "code_2_result": 2,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        15
+      ],
+      "expected": 4,
+      "code_1_result": 4,
+      "code_1_pass": true,
+      "code_2_result": 4,
+      "code_2_pass": true
+    }
+  ],
+  "Sliding Window Sum": [
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        3
+      ],
+      "expected": [
+        6,
+        9,
+        12,
+        15
+      ],
+      "code_1_result": [
+        6,
+        9,
+        12,
+        15
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        6,
+        9,
+        12,
+        15
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          10,
+          -5,
+          0,
+          8,
+          -3,
+          1
+        ],
+        2
+      ],
+      "expected": [
+        5,
+        -5,
+        8,
+        5,
+        -2
+      ],
+      "code_1_result": [
+        5,
+        -5,
+        8,
+        5,
+        -2
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        5,
+        -5,
+        8,
+        5,
+        -2
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        5
+      ],
+      "expected": [
+        25
+      ],
+      "code_1_result": [
+        25
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        25
+      ],
+      "code_2_pass": true
+    }
+  ],
+  "Digital Root": [
+    {
+      "inputs": [
+        16
+      ],
+      "expected": 7,
+      "code_1_result": 7,
+      "code_1_pass": true,
+      "code_2_result": 7,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        942
+      ],
+      "expected": 6,
+      "code_1_result": 6,
+      "code_1_pass": true,
+      "code_2_result": 6,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        493193
+      ],
+      "expected": 2,
+      "code_1_result": 2,
+      "code_1_pass": true,
+      "code_2_result": 2,
+      "code_2_pass": true
+    }
+  ],
+  "Simple CSV Parser": [
+    {
+      "inputs": [
+        "a,b,c\n1,2,3"
+      ],
+      "expected": [
+        [
+          "a",
+          "b",
+          "c"
+        ],
+        [
+          "1",
+          "2",
+          "3"
+        ]
+      ],
+      "code_1_result": [
+        [
+          "a",
+          "b",
+          "c"
+        ],
+        [
+          "1",
+          "2",
+          "3"
+        ]
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        [
+          "a",
+          "b",
+          "c"
+        ],
+        [
+          "1",
+          "2",
+          "3"
+        ]
+      ],
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "name,description\r\n\"First, Item\",\"A simple item\"\r\n\"Second, Item\",\"Another item\"\r\n"
+      ],
+      "expected": [
+        [
+          "name",
+          "description"
+        ],
+        [
+          "First, Item",
+          "A simple item"
+        ],
+        [
+          "Second, Item",
+          "Another item"
+        ],
+        [
+          ""
+        ]
+      ],
+      "code_1_result": [
+        [
+          "name",
+          "description"
+        ],
+        [
+          "First, Item",
+          "A simple item"
+        ],
+        [
+          "Second, Item",
+          "Another item"
+        ],
+        [
+          ""
+        ]
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        [
+          "name",
+          "description"
+        ],
+        [
+          "First, Item",
+          "A simple item"
+        ],
+        [
+          "Second, Item",
+          "Another item"
+        ]
+      ],
+      "code_2_pass": false
+    },
+    {
+      "inputs": [
+        "id,data,comment\n1,\"contains a comma, and a newline\ninside\",\"this field has \"\"escaped quotes\"\" inside\""
+      ],
+      "expected": [
+        [
+          "id",
+          "data",
+          "comment"
+        ],
+        [
+          "1",
+          "contains a comma, and a newline\ninside",
+          "this field has \"escaped quotes\" inside"
+        ]
+      ],
+      "code_1_result": [
+        [
+          "id",
+          "data",
+          "comment"
+        ],
+        [
+          "1",
+          "contains a comma, and a newline\ninside",
+          "this field has \"escaped quotes\" inside"
+        ]
+      ],
+      "code_1_pass": true,
+      "code_2_result": [
+        [
+          "id",
+          "data",
+          "comment"
+        ],
+        [
+          "1",
+          "contains a comma, and a newline\ninside",
+          "this field has \"escaped quotes\" inside"
+        ]
+      ],
+      "code_2_pass": true
+    }
+  ],
+  "Equilibrium Index Finder": [
+    {
+      "inputs": [
+        [
+          -7,
+          1,
+          5,
+          2,
+          -4,
+          3,
+          0
+        ]
+      ],
+      "expected": 3,
+      "code_1_result": 3,
+      "code_1_pass": true,
+      "code_2_result": 3,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "expected": -1,
+      "code_1_result": -1,
+      "code_1_pass": true,
+      "code_2_result": -1,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        [
+          10
+        ]
+      ],
+      "expected": 0,
+      "code_1_result": 0,
+      "code_1_pass": true,
+      "code_2_result": 0,
+      "code_2_pass": true
+    }
+  ],
+  "Merge Dictionaries": [
+    {
+      "inputs": [
+        {
+          "a": 1,
+          "b": 2
+        },
+        {
+          "c": 3,
+          "d": 4
+        }
+      ],
+      "expected": {
+        "a": 1,
+        "b": 2,
+        "c": 3,
+        "d": 4
+      },
+      "code_1_result": {
+        "a": 1,
+        "b": 2,
+        "c": 3,
+        "d": 4
+      },
+      "code_1_pass": true,
+      "code_2_result": {
+        "a": 1,
+        "b": 2,
+        "c": 3,
+        "d": 4
+      },
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        {
+          "apple": 10,
+          "banana": 20
+        },
+        {
+          "banana": 5,
+          "cherry": 30
+        }
+      ],
+      "expected": {
+        "apple": 10,
+        "banana": 25,
+        "cherry": 30
+      },
+      "code_1_result": {
+        "apple": 10,
+        "banana": 25,
+        "cherry": 30
+      },
+      "code_1_pass": true,
+      "code_2_result": {
+        "apple": 10,
+        "banana": 25,
+        "cherry": 30
+      },
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        {
+          "x": 100
+        },
+        {}
+      ],
+      "expected": {
+        "x": 100
+      },
+      "code_1_result": {
+        "x": 100
+      },
+      "code_1_pass": true,
+      "code_2_result": {
+        "x": 100
+      },
+      "code_2_pass": true
+    }
+  ],
+  "Circle Area Calculator": [
+    {
+      "inputs": [
+        1
+      ],
+      "expected": 3.141592653589793,
+      "code_1_result": 3.141592653589793,
+      "code_1_pass": true,
+      "code_2_result": 3.141592653589793,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        0
+      ],
+      "expected": 0.0,
+      "code_1_result": 0.0,
+      "code_1_pass": true,
+      "code_2_result": 0.0,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        2.5
+      ],
+      "expected": 19.634954084936208,
+      "code_1_result": 19.634954084936208,
+      "code_1_pass": true,
+      "code_2_result": 19.634954084936208,
+      "code_2_pass": true
+    }
+  ],
+  "Date Difference": [
+    {
+      "inputs": [
+        "2023-01-01",
+        "2023-01-11"
+      ],
+      "expected": 10,
+      "code_1_result": 10,
+      "code_1_pass": true,
+      "code_2_result": 10,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "2024-03-10",
+        "2024-02-28"
+      ],
+      "expected": 11,
+      "code_1_result": 11,
+      "code_1_pass": true,
+      "code_2_result": 11,
+      "code_2_pass": true
+    },
+    {
+      "inputs": [
+        "2020-01-01",
+        "2020-01-01"
+      ],
+      "expected": 0,
+      "code_1_result": 0,
+      "code_1_pass": true,
+      "code_2_result": 0,
+      "code_2_pass": true
+    }
+  ]
+}

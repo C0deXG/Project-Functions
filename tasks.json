@@ -1,0 +1,3182 @@
+[
+  {
+    "task": "Factorial",
+    "input": "Integer x",
+    "output": "Product of all integers from 1 to x"
+  },
+  {
+    "task": "Sum of Two Numbers",
+    "input": "Integers a and b",
+    "output": "a + b"
+  },
+  {
+    "task": "Fibonacci Number",
+    "input": "Integer n",
+    "output": "n-th number in Fibonacci sequence"
+  },
+  {
+    "task": "Prime Check",
+    "input": "Integer x",
+    "output": "Boolean indicating if x is prime"
+  },
+  {
+    "task": "Reverse String",
+    "input": "String s",
+    "output": "String s reversed"
+  },
+  {
+    "task": "Palindrome Check",
+    "input": "String s",
+    "output": "Boolean indicating if s is a palindrome"
+  },
+  {
+    "task": "Maximum in List",
+    "input": "List of integers",
+    "output": "Maximum value in list"
+  },
+  {
+    "task": "Count Vowels",
+    "input": "String s",
+    "output": "Number of vowels in s"
+  },
+  {
+    "task": "GCD",
+    "input": "Integers a and b",
+    "output": "Greatest common divisor of a and b"
+  },
+  {
+    "task": "LCM",
+    "input": "Integers a and b",
+    "output": "Least common multiple of a and b"
+  },
+  {
+    "task": "Sum of Digits",
+    "input": "Integer x",
+    "output": "Sum of digits in x"
+  },
+  {
+    "task": "Remove Duplicates",
+    "input": "List of integers",
+    "output": "List with duplicates removed"
+  },
+  {
+    "task": "Even or Odd",
+    "input": "Integer x",
+    "output": "\u201cEven\u201d or \u201cOdd\u201d"
+  },
+  {
+    "task": "Count Words",
+    "input": "String s",
+    "output": "Number of words in s"
+  },
+  {
+    "task": "Convert Celsius to Fahrenheit",
+    "input": "Float c",
+    "output": "Fahrenheit equivalent of c"
+  },
+  {
+    "task": "Find Second Largest",
+    "input": "List of integers",
+    "output": "Second largest number"
+  },
+  {
+    "task": "Check Anagram",
+    "input": "Strings a and b",
+    "output": "Boolean indicating if a and b are anagrams"
+  },
+  {
+    "task": "Power Function",
+    "input": "Integers base and exponent",
+    "output": "base raised to the exponent"
+  },
+  {
+    "task": "Sum of List",
+    "input": "List of integers",
+    "output": "Total sum of the list"
+  },
+  {
+    "task": "Count Frequency",
+    "input": "List of elements",
+    "output": "Dictionary with frequency of each element"
+  },
+  {
+    "task": "String to Uppercase",
+    "input": "String s",
+    "output": "s in uppercase"
+  },
+  {
+    "task": "Character Frequency",
+    "input": "String s",
+    "output": "Dictionary of character frequencies"
+  },
+  {
+    "task": "Remove Punctuation",
+    "input": "String s",
+    "output": "String without punctuation"
+  },
+  {
+    "task": "Sort List",
+    "input": "List of integers",
+    "output": "Sorted list"
+  },
+  {
+    "task": "Find Common Elements",
+    "input": "Two lists",
+    "output": "List of common elements"
+  },
+  {
+    "task": "Multiplication Table",
+    "input": "Integer n",
+    "output": "List of lists containing multiplication table for n from 1 to 10"
+  },
+  {
+    "task": "Filter Even Numbers",
+    "input": "List of integers",
+    "output": "List of integers containing only the even numbers from the input"
+  },
+  {
+    "task": "Convert Decimal to Binary",
+    "input": "Integer",
+    "output": "String representing the binary form of the input integer"
+  },
+  {
+    "task": "Convert Binary to Decimal",
+    "input": "String of '0' and '1' characters",
+    "output": "Integer representing the decimal value of the binary input"
+  },
+  {
+    "task": "Find Median",
+    "input": "List of numbers",
+    "output": "Float or integer representing the median value of the list"
+  },
+  {
+    "task": "Flatten Nested List",
+    "input": "List of lists (of any depth 1)",
+    "output": "Single list containing all elements from the nested lists"
+  },
+  {
+    "task": "Transpose Matrix",
+    "input": "Two-dimensional list (matrix)",
+    "output": "Two-dimensional list representing the transposed matrix"
+  },
+  {
+    "task": "Caesar Cipher",
+    "input": "String (plaintext) and integer shift",
+    "output": "String containing the shifted (encrypted) text"
+  },
+  {
+    "task": "Count Lowercase Letters",
+    "input": "String",
+    "output": "Integer count of all lowercase alphabetic characters in the string"
+  },
+  {
+    "task": "Find Mode",
+    "input": "List of numbers",
+    "output": "Number that appears most frequently in the list"
+  },
+  {
+    "task": "Armstrong Number Check",
+    "input": "A positive integer",
+    "output": "True if the number is an Armstrong number, else False"
+  },
+  {
+    "task": "Primes in Range",
+    "input": "Two integers start and end",
+    "output": "A list of all prime numbers between start and end (inclusive)"
+  },
+  {
+    "task": "Stop Words Removal",
+    "input": "A string sentence and a list of stop words",
+    "output": "The sentence string with all occurrences of the stop words removed"
+  },
+  {
+    "task": "Missing Number Finder",
+    "input": "A list of unique integers from 1 to n with one missing",
+    "output": "The missing integer in the sequence"
+  },
+  {
+    "task": "List Rotation",
+    "input": "A list and an integer k",
+    "output": "The list rotated to the right by k positions"
+  },
+  {
+    "task": "Merge Sorted Lists",
+    "input": "Two sorted lists of integers",
+    "output": "A single sorted list containing all elements from both input lists"
+  },
+  {
+    "task": "Parentheses Balance Check",
+    "input": "A string containing the characters () [] {}",
+    "output": "True if all types of parentheses are balanced and properly nested, else False"
+  },
+  {
+    "task": "Compound Interest Calculator",
+    "input": "Principal (float), annual rate as a percentage (float), times compounded per year (int), years (int)",
+    "output": "The accumulated amount as a float"
+  },
+  {
+    "task": "Unique Random Numbers",
+    "input": "Two integers n and range_end",
+    "output": "A list of n unique random integers between 1 and range_end inclusive"
+  },
+  {
+    "task": "Pair Sum Finder",
+    "input": "A list of integers and a target integer sum",
+    "output": "A tuple of two integers from the list that add up to the target, or None if no such pair exists"
+  },
+  {
+    "task": "Hypotenuse Calculator",
+    "input": "Two positive numbers (int or float) representing the lengths of the triangle\u2019s legs",
+    "output": "A float representing the length of the hypotenuse"
+  },
+  {
+    "task": "Leap Year Check",
+    "input": "An integer representing a year",
+    "output": "A boolean indicating whether the year is a leap year"
+  },
+  {
+    "task": "List Average",
+    "input": "A list of numbers (ints or floats)",
+    "output": "A float representing the average of the list"
+  },
+  {
+    "task": "Pangram Check",
+    "input": "A string of text",
+    "output": "A boolean indicating whether the string contains every letter of the English alphabet at least once"
+  },
+  {
+    "task": "Perfect Number Check",
+    "input": "An integer greater than 1",
+    "output": "A boolean indicating whether the number is perfect (sum of its proper divisors equals the number)"
+  },
+  {
+    "task": "Cumulative Sum List",
+    "input": "A list of numbers",
+    "output": "A list where each element is the cumulative sum up to that index"
+  },
+  {
+    "task": "Extract Digits",
+    "input": "A string containing alphanumeric characters",
+    "output": "A string of all digit characters extracted from the input, in order"
+  },
+  {
+    "task": "Isogram Check",
+    "input": "A string of alphabetical characters",
+    "output": "A boolean indicating whether no letter repeats in the string"
+  },
+  {
+    "task": "String Rotation",
+    "input": "A string and an integer n",
+    "output": "A string rotated to the left by n characters"
+  },
+  {
+    "task": "Sort Dictionary by Value",
+    "input": "A dictionary with comparable keys and numeric values",
+    "output": "A list of tuples (key, value) sorted by value in ascending order"
+  },
+  {
+    "task": "Running Maximum",
+    "input": "List of numbers",
+    "output": "List of running maximums at each position"
+  },
+  {
+    "task": "Remove Element",
+    "input": "List and a value to remove",
+    "output": "New list with all occurrences of the value removed"
+  },
+  {
+    "task": "Validate IPv4 Address",
+    "input": "String",
+    "output": "Boolean indicating whether the string is a valid IPv4 address"
+  },
+  {
+    "task": "Longest Word Finder",
+    "input": "String (sentence)",
+    "output": "The longest word in the sentence"
+  },
+  {
+    "task": "Unique Characters",
+    "input": "String",
+    "output": "String of unique characters in the order they first appear"
+  },
+  {
+    "task": "Generate Power Set",
+    "input": "List of elements",
+    "output": "List of lists representing all possible subsets"
+  },
+  {
+    "task": "Simple CSV Parser",
+    "input": "CSV-formatted string",
+    "output": "List of rows, each row as a list of values"
+  },
+  {
+    "task": "Matrix Diagonal Sum",
+    "input": "Square matrix (list of lists)",
+    "output": "Sum of the primary diagonal elements"
+  },
+  {
+    "task": "Count Set Bits",
+    "input": "Integer",
+    "output": "Number of 1 bits in its binary representation"
+  },
+  {
+    "task": "Sliding Window Sum",
+    "input": "List of numbers and window size (integer)",
+    "output": "List of sums for each consecutive window of the given size"
+  },
+  {
+    "task": "Digital Root",
+    "input": "integer n",
+    "output": "integer representing the digital root of n"
+  },
+  {
+    "task": "Equilibrium Index Finder",
+    "input": "list of integers",
+    "output": "integer index where left and right sums are equal or -1"
+  },
+  {
+    "task": "Merge Dictionaries",
+    "input": "two dictionaries with string keys and integer values",
+    "output": "single dictionary with keys merged and values summed"
+  },
+  {
+    "task": "Date Difference",
+    "input": "two date strings in \"YYYY-MM-DD\" format",
+    "output": "integer number of days between the two dates"
+  },
+  {
+    "task": "Random Password Generator",
+    "input": "integer length",
+    "output": "string password containing letters, digits, and symbols"
+  },
+  {
+    "task": "Circle Area Calculator",
+    "input": "float radius",
+    "output": "float area of the circle"
+  },
+  {
+    "task": "Quadratic Equation Solver",
+    "input": "three floats a, b, c",
+    "output": "tuple of two roots (real or complex) of ax\u00b2 + bx + c = 0"
+  },
+  {
+    "task": "Weighted Average",
+    "input": "list of tuples (value: float, weight: float)",
+    "output": "float weighted average"
+  },
+  {
+    "task": "Title Case Conversion",
+    "input": "string sentence",
+    "output": "string with each word capitalized"
+  },
+  {
+    "task": "Max Product Pair",
+    "input": "list of integers",
+    "output": "tuple of two integers whose product is maximum"
+  },
+  {
+    "task": "Remove Consecutive Duplicates",
+    "input": "list of items",
+    "output": "list of items with consecutive duplicates removed"
+  },
+  {
+    "task": "Prime Factorization",
+    "input": "integer",
+    "output": "list of prime factors in ascending order"
+  },
+  {
+    "task": "Roman to Integer",
+    "input": "string representing a Roman numeral",
+    "output": "integer value of the Roman numeral"
+  },
+  {
+    "task": "Group Anagrams",
+    "input": "list of strings",
+    "output": "list of lists, where each sublist contains anagram strings"
+  },
+  {
+    "task": "Longest Common Prefix",
+    "input": "list of strings",
+    "output": "longest common prefix string"
+  },
+  {
+    "task": "Count Special Characters",
+    "input": "string",
+    "output": "integer count of non-alphanumeric characters"
+  },
+  {
+    "task": "Generate Identity Matrix",
+    "input": "integer n",
+    "output": "n\u00d7n list of lists representing an identity matrix"
+  },
+  {
+    "task": "Time Difference in Minutes",
+    "input": "two strings in \"HH:MM\" 24-hour format",
+    "output": "integer difference between times in minutes"
+  },
+  {
+    "task": "Top Three Largest",
+    "input": "list of numbers",
+    "output": "list of the three largest unique numbers in descending order"
+  },
+  {
+    "task": "Sort Strings by Length",
+    "input": "list of strings",
+    "output": "list of strings sorted by length in ascending order"
+  },
+  {
+    "task": "Perfect Square Check",
+    "input": "A single integer",
+    "output": "True if the number is a perfect square, otherwise False"
+  },
+  {
+    "task": "Triangular Number",
+    "input": "A single integer n",
+    "output": "The nth triangular number (sum of integers from 1 to n)"
+  },
+  {
+    "task": "Automorphic Number Check",
+    "input": "A single integer",
+    "output": "True if the square of the number ends with the number itself, otherwise False"
+  },
+  {
+    "task": "Degrees to Radians Conversion",
+    "input": "A single float representing degrees",
+    "output": "The equivalent angle in radians as a float"
+  },
+  {
+    "task": "Alternate Merge Strings",
+    "input": "Two strings",
+    "output": "A new string formed by alternating characters from both inputs; append leftover characters at the end"
+  },
+  {
+    "task": "Swap Case String",
+    "input": "A single string",
+    "output": "The string with uppercase letters converted to lowercase and vice versa"
+  },
+  {
+    "task": "Second Smallest in List",
+    "input": "A list of integers with at least two distinct values",
+    "output": "The second smallest integer in the list"
+  },
+  {
+    "task": "Check Sorted List",
+    "input": "A list of comparable elements",
+    "output": "True if the list is sorted in non-decreasing order, otherwise False"
+  },
+  {
+    "task": "Dot Product of Vectors",
+    "input": "Two lists of numbers of equal length",
+    "output": "The dot product as a number"
+  },
+  {
+    "task": "Reverse List in Chunks",
+    "input": "A list and an integer k",
+    "output": "A new list where elements are reversed in sublists of size k; leftover elements remain in original order if fewer than k"
+  },
+  {
+    "task": "Validate Sudoku Row",
+    "input": "list of 9 integers",
+    "output": "boolean indicating if the row contains all digits from 1 to 9 exactly once"
+  },
+  {
+    "task": "Multiply Matrices",
+    "input": "two 2D lists of numbers where the first is m\u00d7n and the second is n\u00d7p",
+    "output": "2D list representing the m\u00d7p product matrix"
+  },
+  {
+    "task": "Right Triangle Check",
+    "input": "three positive numbers",
+    "output": "boolean indicating if they can form a right-angled triangle"
+  },
+  {
+    "task": "Time Format Conversion",
+    "input": "string in format \"hh:mm:ssAM\" or \"hh:mm:ssPM\"",
+    "output": "string in 24-hour format \"HH:MM:SS\""
+  },
+  {
+    "task": "Binomial Coefficient",
+    "input": "two non-negative integers n and k",
+    "output": "integer equal to the binomial coefficient C(n, k)"
+  },
+  {
+    "task": "Pascal's Triangle Row",
+    "input": "non-negative integer n",
+    "output": "list of integers representing the nth (0-indexed) row of Pascal\u2019s triangle"
+  },
+  {
+    "task": "Rock-Paper-Scissors Winner",
+    "input": "two strings each \"rock\", \"paper\", or \"scissors\"",
+    "output": "string \"Player 1\", \"Player 2\", or \"Draw\""
+  },
+  {
+    "task": "Zip Lists to Dictionary",
+    "input": "two lists of equal length (keys and values)",
+    "output": "dictionary mapping each key to its corresponding value"
+  },
+  {
+    "task": "URL Encode Spaces",
+    "input": "string",
+    "output": "string where all space characters are replaced by \"%20\""
+  },
+  {
+    "task": "Evaluate Postfix Expression",
+    "input": "string of space-separated tokens (integers and the operators +, -, *, /)",
+    "output": "integer result of evaluating the postfix expression"
+  },
+  {
+    "task": "Run-Length Encoding",
+    "input": "A string",
+    "output": "A run-length encoded string where consecutive characters are represented as character followed by count"
+  },
+  {
+    "task": "Snake to Camel Case",
+    "input": "A snake_case string",
+    "output": "The string converted to camelCase"
+  },
+  {
+    "task": "Camel to Snake Case",
+    "input": "A camelCase string",
+    "output": "The string converted to snake_case"
+  },
+  {
+    "task": "Jaccard Similarity",
+    "input": "Two lists of hashable items",
+    "output": "A float representing the Jaccard similarity coefficient"
+  },
+  {
+    "task": "Symmetric Difference",
+    "input": "Two lists",
+    "output": "A list of elements present in one list or the other but not both"
+  },
+  {
+    "task": "Is Matrix Symmetric",
+    "input": "A square 2D list of numbers",
+    "output": "A boolean indicating if the matrix equals its transpose"
+  },
+  {
+    "task": "Rolling Average",
+    "input": "A list of numbers and an integer window size",
+    "output": "A list of floating-point moving averages for each window"
+  },
+  {
+    "task": "Palindrome Binary Check",
+    "input": "An integer",
+    "output": "A boolean indicating if its binary representation reads the same forwards and backwards"
+  },
+  {
+    "task": "Maximum Subarray Sum",
+    "input": "A list of integers",
+    "output": "An integer representing the largest sum of any contiguous subarray"
+  },
+  {
+    "task": "Merge Overlapping Intervals",
+    "input": "A list of intervals (each interval is a two-element list [start, end])",
+    "output": "A list of merged non-overlapping intervals"
+  },
+  {
+    "task": "Swap First and Last Elements",
+    "input": "list of elements",
+    "output": "list with first and last elements swapped"
+  },
+  {
+    "task": "Rotate String by N Characters",
+    "input": "a string and an integer N",
+    "output": "string rotated right by N characters"
+  },
+  {
+    "task": "Shuffle List",
+    "input": "list of elements",
+    "output": "list with elements in random order"
+  },
+  {
+    "task": "Count Trailing Zeros in Factorial",
+    "input": "non-negative integer",
+    "output": "integer count of trailing zeros in its factorial"
+  },
+  {
+    "task": "Count Distinct Prime Factors",
+    "input": "positive integer",
+    "output": "integer count of distinct prime factors"
+  },
+  {
+    "task": "Find Majority Element",
+    "input": "list of elements",
+    "output": "element appearing more than half the time or None"
+  },
+  {
+    "task": "Longest Increasing Run",
+    "input": "list of integers",
+    "output": "length of the longest strictly increasing contiguous subsequence"
+  },
+  {
+    "task": "Snake to Kebab Case",
+    "input": "string in snake_case",
+    "output": "string converted to kebab-case"
+  },
+  {
+    "task": "Sum at Even Indices",
+    "input": "list of numbers",
+    "output": "sum of elements at even indices (0-based)"
+  },
+  {
+    "task": "Count Consonants",
+    "input": "a string",
+    "output": "integer count of consonant letters in the string"
+  },
+  {
+    "task": "First Non-Repeated Character",
+    "input": "a string",
+    "output": "the first character that does not repeat, or an empty string if none"
+  },
+  {
+    "task": "List Difference",
+    "input": "two lists of integers",
+    "output": "a list of elements in the first list but not in the second, in original order"
+  },
+  {
+    "task": "Group Strings by Length",
+    "input": "a list of strings",
+    "output": "a dictionary mapping each string length to the list of strings of that length"
+  },
+  {
+    "task": "Check Interval Overlap",
+    "input": "two intervals as two-element tuples (start, end)",
+    "output": "True if the intervals overlap, otherwise False"
+  },
+  {
+    "task": "Remove HTML Tags",
+    "input": "a string containing simple HTML tags",
+    "output": "the string with all tags (enclosed in < >) removed"
+  },
+  {
+    "task": "Longest Common Suffix",
+    "input": "a list of strings",
+    "output": "the longest suffix shared by all strings, or an empty string if none"
+  },
+  {
+    "task": "All Substrings of Length K",
+    "input": "a string and an integer K",
+    "output": "a list of all substrings of the string that are exactly length K"
+  },
+  {
+    "task": "Largest Difference",
+    "input": "a list of integers",
+    "output": "the difference between the maximum and minimum elements"
+  },
+  {
+    "task": "Interleave Two Lists",
+    "input": "two lists",
+    "output": "a single list with elements alternately taken from each, appending any leftovers at the end"
+  },
+  {
+    "task": "Count Bigrams",
+    "input": "a string",
+    "output": "a dictionary where keys are two-character sequences and values are their counts in the string"
+  },
+  {
+    "task": "Sum of Odd Numbers",
+    "input": "a list of integers",
+    "output": "the sum of all odd integers in the list"
+  },
+  {
+    "task": "Element-wise List Multiplication",
+    "input": "two lists of numbers of equal length",
+    "output": "a list where each element is the product of the corresponding elements from the input lists"
+  },
+  {
+    "task": "Missing Alphabets in Sentence",
+    "input": "a string",
+    "output": "a list of lowercase alphabet letters not present in the string"
+  },
+  {
+    "task": "Hamming Distance",
+    "input": "two strings of equal length",
+    "output": "the number of positions at which the corresponding characters are different"
+  },
+  {
+    "task": "Sum of Primes in List",
+    "input": "a list of integers",
+    "output": "the sum of all prime numbers in the list"
+  },
+  {
+    "task": "List Palindrome Check",
+    "input": "a list of elements",
+    "output": "True if the list reads the same forwards and backwards, otherwise False"
+  },
+  {
+    "task": "Sentence Case Conversion",
+    "input": "a string containing sentences separated by periods",
+    "output": "a string with the first letter of each sentence capitalized and the rest lowercase"
+  },
+  {
+    "task": "Local Maxima Count in List",
+    "input": "a list of numbers",
+    "output": "the count of elements that are strictly greater than their immediate neighbors"
+  },
+  {
+    "task": "Generate Combinations of Size K",
+    "input": "a list and an integer k",
+    "output": "a list of all unique combinations (as lists) of length k from the input list"
+  },
+  {
+    "task": "Extract File Extension",
+    "input": "a filename string",
+    "output": "the file extension as a string, or an empty string if there is none"
+  },
+  {
+    "task": "Happy Number Check",
+    "input": "integer",
+    "output": "boolean"
+  },
+  {
+    "task": "Standard Deviation",
+    "input": "list of numbers",
+    "output": "float"
+  },
+  {
+    "task": "Normalize List",
+    "input": "list of numbers",
+    "output": "list of floats"
+  },
+  {
+    "task": "Count Overlapping Substrings",
+    "input": "string, substring",
+    "output": "integer"
+  },
+  {
+    "task": "Convert 12-Hour to 24-Hour Time",
+    "input": "string (e.g. \"02:30 PM\")",
+    "output": "string (e.g. \"14:30\")"
+  },
+  {
+    "task": "Email Validation",
+    "input": "string",
+    "output": "boolean"
+  },
+  {
+    "task": "Euclidean Norm",
+    "input": "list of numbers",
+    "output": "float"
+  },
+  {
+    "task": "Random Float Generator",
+    "input": "integer n, float a, float b",
+    "output": "list of n floats"
+  },
+  {
+    "task": "Count Uppercase Words",
+    "input": "string",
+    "output": "integer"
+  },
+  {
+    "task": "Extract Hashtags",
+    "input": "string",
+    "output": "list of strings"
+  },
+  {
+    "task": "Running Product List",
+    "input": "A list of numbers",
+    "output": "A list of numbers where each element is the cumulative product up to that index"
+  },
+  {
+    "task": "Count Prime Digits",
+    "input": "An integer",
+    "output": "An integer representing the count of digits in the input that are prime (2, 3, 5, 7)"
+  },
+  {
+    "task": "Binary Search",
+    "input": "A sorted list of numbers and a target number",
+    "output": "The index of the target in the list or -1 if not found"
+  },
+  {
+    "task": "Longest Common Substring",
+    "input": "Two strings",
+    "output": "The longest common substring shared by both strings"
+  },
+  {
+    "task": "Rotate Matrix 90 Degrees",
+    "input": "A square matrix (list of lists)",
+    "output": "The matrix rotated 90 degrees clockwise"
+  },
+  {
+    "task": "List Symmetrization",
+    "input": "A list of elements",
+    "output": "A new list formed by appending the reverse of the input list to itself"
+  },
+  {
+    "task": "Character Frequency Sort",
+    "input": "A string",
+    "output": "A string with characters sorted by descending frequency"
+  },
+  {
+    "task": "Zip and Sum Lists",
+    "input": "Two lists of numbers of equal length",
+    "output": "A list where each element is the sum of elements at the corresponding positions in the input lists"
+  },
+  {
+    "task": "Sliding Window Maximum",
+    "input": "A list of numbers and an integer k (window size)",
+    "output": "A list of the maximum values in each sliding window of size k"
+  },
+  {
+    "task": "Cumulative XOR List",
+    "input": "A list of integers",
+    "output": "A list where each element is the XOR of all input elements up to that index"
+  },
+  {
+    "task": "Filter Strings by Prefix",
+    "input": "a list of strings and a prefix string",
+    "output": "a list of strings from the input list that start with the given prefix"
+  },
+  {
+    "task": "Dictionary Key Intersection",
+    "input": "two dictionaries",
+    "output": "a list of keys that appear in both dictionaries"
+  },
+  {
+    "task": "Count Prime Indices",
+    "input": "a list of integers",
+    "output": "the count of elements located at prime-numbered indices (0-based)"
+  },
+  {
+    "task": "Swap Dictionary Keys and Values",
+    "input": "a dictionary with unique values",
+    "output": "a new dictionary where original values are keys and original keys are values"
+  },
+  {
+    "task": "Group Numbers by Parity",
+    "input": "a list of integers",
+    "output": "a dictionary with two keys \"even\" and \"odd\" mapping to lists of the even and odd numbers respectively"
+  },
+  {
+    "task": "Every Nth Element",
+    "input": "a list and an integer n",
+    "output": "a list containing every n\u1d57\u02b0 element from the original list, starting with the first element"
+  },
+  {
+    "task": "Pig Latin Converter",
+    "input": "a single lowercase word",
+    "output": "the word converted into Pig Latin (move first letter to end and add \"ay\")"
+  },
+  {
+    "task": "Binary String Addition",
+    "input": "two strings representing binary numbers",
+    "output": "a string representing their sum in binary"
+  },
+  {
+    "task": "Find Nearest Number",
+    "input": "a list of numbers and a target number",
+    "output": "the number from the list closest to the target (if tie, return any)"
+  },
+  {
+    "task": "Matrix Border Sum",
+    "input": "a 2D list of numbers (matrix)",
+    "output": "the sum of the elements on the border of the matrix"
+  },
+  {
+    "task": "Sum of Unique Digits",
+    "input": "integer number",
+    "output": "integer sum of digits that appear only once in the number"
+  },
+  {
+    "task": "Check All Elements Identical",
+    "input": "list of elements",
+    "output": "boolean indicating if all elements in the list are identical"
+  },
+  {
+    "task": "Swap Adjacent Elements",
+    "input": "list of elements",
+    "output": "list where each pair of adjacent elements is swapped"
+  },
+  {
+    "task": "Sum of Factorial Digits",
+    "input": "non-negative integer",
+    "output": "integer sum of the factorials of each digit"
+  },
+  {
+    "task": "Extract File Name",
+    "input": "string file path",
+    "output": "string file name without directory path"
+  },
+  {
+    "task": "Vowel Percentage",
+    "input": "string",
+    "output": "float percentage of characters that are vowels (a, e, i, o, u)"
+  },
+  {
+    "task": "Adjacent Pair Sums",
+    "input": "list of numbers",
+    "output": "list of sums of each pair of adjacent elements"
+  },
+  {
+    "task": "Middle Character Extraction",
+    "input": "non-empty string",
+    "output": "string middle character (or two middle characters if length is even)"
+  },
+  {
+    "task": "Count Primes in List",
+    "input": "list of integers",
+    "output": "integer count of prime numbers in the list"
+  },
+  {
+    "task": "Count Palindromic Words",
+    "input": "string (sentence)",
+    "output": "integer (number of words that are palindromes)"
+  },
+  {
+    "task": "Matrix Addition",
+    "input": "two lists of lists of numbers (same dimensions)",
+    "output": "list of lists representing element-wise sum"
+  },
+  {
+    "task": "Validate Hexadecimal Color Code",
+    "input": "string (e.g. \"#1A3F9C\")",
+    "output": "boolean (True if valid hex color code, else False)"
+  },
+  {
+    "task": "Extract Numbers From String",
+    "input": "string containing digits and non-digit characters",
+    "output": "list of integers extracted in order of appearance"
+  },
+  {
+    "task": "Word Length Histogram",
+    "input": "list of strings",
+    "output": "dictionary mapping word lengths (int) to their frequency (int)"
+  },
+  {
+    "task": "Integer to Roman Numeral",
+    "input": "integer (1 to 3999)",
+    "output": "string (Roman numeral representation)"
+  },
+  {
+    "task": "Generate Pascal's Triangle",
+    "input": "integer n (number of rows)",
+    "output": "list of lists, each inner list is a row of Pascal's triangle"
+  },
+  {
+    "task": "Split List into Chunks",
+    "input": "list of elements and integer chunk size",
+    "output": "list of lists, where each sublist has up to chunk size elements"
+  },
+  {
+    "task": "Identify Even Digits in Number",
+    "input": "integer",
+    "output": "list of integers (even digits found in the input, in order)"
+  },
+  {
+    "task": "Arithmetic Series Sum",
+    "input": "three integers: first term a, common difference d, number of terms n",
+    "output": "integer (sum of the arithmetic series)"
+  },
+  {
+    "task": "Generate Squares Dictionary",
+    "input": "integer n",
+    "output": "dict mapping each integer from 1 to n to its square"
+  },
+  {
+    "task": "Time to Seconds",
+    "input": "three integers hours, minutes, seconds",
+    "output": "integer total seconds"
+  },
+  {
+    "task": "Numeric String Check",
+    "input": "string s",
+    "output": "boolean True if s consists only of digits, False otherwise"
+  },
+  {
+    "task": "Sum of Even Digits",
+    "input": "integer n",
+    "output": "integer sum of all even digits in n"
+  },
+  {
+    "task": "Subset Check",
+    "input": "two lists lst1, lst2",
+    "output": "boolean True if every element in lst1 is present in lst2, False otherwise"
+  },
+  {
+    "task": "Decimal to Hexadecimal",
+    "input": "integer n",
+    "output": "string hexadecimal representation of n without prefix"
+  },
+  {
+    "task": "Count Unique Words",
+    "input": "string text",
+    "output": "integer count of unique words in text separated by whitespace"
+  },
+  {
+    "task": "First N Primes",
+    "input": "integer n",
+    "output": "list of the first n prime numbers"
+  },
+  {
+    "task": "Perfect Cube Check",
+    "input": "integer n",
+    "output": "boolean True if n is a perfect cube, False otherwise"
+  },
+  {
+    "task": "Running Difference List",
+    "input": "list of numbers nums",
+    "output": "list of differences between each pair of consecutive elements in nums"
+  },
+  {
+    "task": "Frequency of Word Lengths",
+    "input": "a string containing a sentence",
+    "output": "a dictionary mapping each word length (int) to its occurrence count"
+  },
+  {
+    "task": "Sum of Matrix Elements",
+    "input": "a 2D list of numbers",
+    "output": "the sum of all elements in the matrix"
+  },
+  {
+    "task": "Missing Letter Finder",
+    "input": "a string of ascending letters with one missing",
+    "output": "the missing letter as a character"
+  },
+  {
+    "task": "Triangle Validity Check",
+    "input": "three positive numbers representing side lengths",
+    "output": "True if they can form any triangle, False otherwise"
+  },
+  {
+    "task": "Sort Tuples by Second Element",
+    "input": "a list of 2-tuples",
+    "output": "the list sorted in ascending order by each tuple\u2019s second element"
+  },
+  {
+    "task": "Partition Evens and Odds",
+    "input": "a list of integers",
+    "output": "two lists: first with even numbers, second with odd numbers"
+  },
+  {
+    "task": "Count Sublist Occurrences",
+    "input": "a list and a sublist",
+    "output": "the number of times the sublist appears consecutively in the list"
+  },
+  {
+    "task": "Run-Length Decoding",
+    "input": "a run-length encoded string (e.g., \u201c2a3b\u201d)",
+    "output": "the decoded string (e.g., \u201caabbb\u201d)"
+  },
+  {
+    "task": "Convert Decimal to Base N",
+    "input": "an integer and a base (2\u201336)",
+    "output": "the string representation of the integer in the given base"
+  },
+  {
+    "task": "Next Prime Finder",
+    "input": "Integer n",
+    "output": "The smallest prime number greater than n"
+  },
+  {
+    "task": "Polynomial Evaluation",
+    "input": "List of coefficients (list of numbers) and a value x (number)",
+    "output": "The result of the polynomial at x"
+  },
+  {
+    "task": "Zodiac Sign Finder",
+    "input": "Two integers representing day and month",
+    "output": "The corresponding zodiac sign as a string"
+  },
+  {
+    "task": "BMI Calculator",
+    "input": "Weight in kilograms (float) and height in meters (float)",
+    "output": "Body Mass Index value (float) and category (\u201cUnderweight\u201d, \u201cNormal\u201d, \u201cOverweight\u201d, \u201cObese\u201d)"
+  },
+  {
+    "task": "Currency Converter",
+    "input": "Amount (float) and conversion rate (float)",
+    "output": "Converted amount (float)"
+  },
+  {
+    "task": "Password Strength Checker",
+    "input": "A password string",
+    "output": "Strength level as a string: \u201cWeak\u201d, \u201cMedium\u201d, or \u201cStrong\u201d"
+  },
+  {
+    "task": "Validate ISBN-10",
+    "input": "A string representing an ISBN-10 code (digits and optional hyphens)",
+    "output": "Boolean indicating whether it is a valid ISBN-10"
+  },
+  {
+    "task": "Dice Roll Simulator",
+    "input": "Number of dice (integer) and number of faces per die (integer)",
+    "output": "List of integers representing the outcome of each die roll"
+  },
+  {
+    "task": "Histogram Generator",
+    "input": "List of nonnegative integers",
+    "output": "Multiline string where each line has a number of asterisks equal to the integer at that position"
+  },
+  {
+    "task": "Next Palindrome Number",
+    "input": "Integer n",
+    "output": "The smallest integer palindrome greater than n"
+  },
+  {
+    "task": "Neon Number Check",
+    "input": "integer",
+    "output": "boolean (True if sum of digits of its square equals the number)"
+  },
+  {
+    "task": "Amicable Pair Check",
+    "input": "two integers",
+    "output": "boolean (True if the numbers form an amicable pair)"
+  },
+  {
+    "task": "Collatz Sequence Length",
+    "input": "positive integer",
+    "output": "integer (number of steps to reach 1 following Collatz rules)"
+  },
+  {
+    "task": "Swap Nibbles",
+    "input": "integer (0\u2013255)",
+    "output": "integer (value after swapping its upper and lower 4-bit nibbles)"
+  },
+  {
+    "task": "Check Alphabetical Order",
+    "input": "string",
+    "output": "boolean (True if characters in the string are in non-decreasing alphabetical order)"
+  },
+  {
+    "task": "Alternating Even-Odd Digits",
+    "input": "positive integer",
+    "output": "boolean (True if its digits alternate between even and odd)"
+  },
+  {
+    "task": "Longest Palindromic Substring",
+    "input": "string",
+    "output": "string (the longest substring that is a palindrome; return any one if multiple)"
+  },
+  {
+    "task": "Prefix Expression Evaluator",
+    "input": "string (prefix expression with integers and operators +, -, *, / separated by spaces)",
+    "output": "integer (result of evaluating the expression)"
+  },
+  {
+    "task": "Extract Substring Between Delimiters",
+    "input": "string and two single-character delimiters (start and end)",
+    "output": "string (content between the first occurrence of the delimiters)"
+  },
+  {
+    "task": "Shortest Word with All Vowels",
+    "input": "string (sentence of words separated by spaces)",
+    "output": "string (the shortest word that contains all five vowels a, e, i, o, u; return an empty string if none)"
+  },
+  {
+    "task": "Angle Between Clock Hands",
+    "input": "two integers (hour 1\u201312, minute 0\u201359)",
+    "output": "float (smallest angle in degrees)"
+  },
+  {
+    "task": "Sum of Divisors",
+    "input": "integer n",
+    "output": "integer (sum of all positive divisors of n)"
+  },
+  {
+    "task": "Harshad Number Check",
+    "input": "integer n",
+    "output": "boolean (True if n is divisible by the sum of its digits)"
+  },
+  {
+    "task": "Hexadecimal to Decimal",
+    "input": "string (hexadecimal number)",
+    "output": "integer (decimal equivalent)"
+  },
+  {
+    "task": "Subsequence Check",
+    "input": "two strings s and t",
+    "output": "boolean (True if s is a subsequence of t)"
+  },
+  {
+    "task": "Magic Square Check",
+    "input": "list of lists of integers (3\u00d73 matrix)",
+    "output": "boolean (True if the matrix is a magic square)"
+  },
+  {
+    "task": "String to Morse Code",
+    "input": "string (letters and digits)",
+    "output": "string (Morse code, letters separated by spaces)"
+  },
+  {
+    "task": "Generate Collatz Sequence",
+    "input": "integer n",
+    "output": "list of integers (Collatz sequence starting at n and ending at 1)"
+  },
+  {
+    "task": "Random RGB Color Generator",
+    "input": "integer n",
+    "output": "list of strings (n random RGB color codes in \u201c#RRGGBB\u201d format)"
+  },
+  {
+    "task": "Point in Circle Check",
+    "input": "floats x, y (point), floats cx, cy, r (circle center and radius)",
+    "output": "boolean (True if point (x, y) is inside or on the circle)"
+  },
+  {
+    "task": "Word Lengths List",
+    "input": "A string sentence",
+    "output": "A list of integers representing the length of each word in the sentence"
+  },
+  {
+    "task": "First N Triangular Numbers",
+    "input": "An integer n",
+    "output": "A list of the first n triangular numbers"
+  },
+  {
+    "task": "Swap Elements at Indices",
+    "input": "A list and two integers i and j",
+    "output": "The list after swapping the elements at indices i and j"
+  },
+  {
+    "task": "Format Number With Commas",
+    "input": "An integer",
+    "output": "A string with commas inserted as thousands separators"
+  },
+  {
+    "task": "Count Letters and Digits",
+    "input": "A string",
+    "output": "Two integers: the count of alphabetic letters and the count of numeric digits"
+  },
+  {
+    "task": "Manhattan Distance",
+    "input": "Two tuples of two numbers each representing (x1, y1) and (x2, y2)",
+    "output": "The Manhattan distance between the two points"
+  },
+  {
+    "task": "Convert List of Strings to Integers",
+    "input": "A list of strings where each string represents an integer",
+    "output": "A list of integers converted from the input strings"
+  },
+  {
+    "task": "Sum of Upper Triangular Matrix",
+    "input": "A square matrix (list of lists of numbers)",
+    "output": "The sum of elements in the upper triangular part, including the diagonal"
+  },
+  {
+    "task": "Average Word Length",
+    "input": "A string sentence",
+    "output": "A float representing the average length of words in the sentence"
+  },
+  {
+    "task": "Remove Leading Zeros",
+    "input": "A string representing a number with leading zeros",
+    "output": "A string representing the number without any leading zeros"
+  },
+  {
+    "task": "Sum of Squares",
+    "input": "List of integers",
+    "output": "Integer representing the sum of each integer squared"
+  },
+  {
+    "task": "Scale List",
+    "input": "List of numbers and a number factor",
+    "output": "List where each element is multiplied by the factor"
+  },
+  {
+    "task": "Longest Even-Length Word",
+    "input": "String (a sentence)",
+    "output": "The longest word in the sentence that has an even number of characters"
+  },
+  {
+    "task": "Product of Non-Zero Digits",
+    "input": "Integer",
+    "output": "Integer equal to the product of its non-zero digits"
+  },
+  {
+    "task": "Fahrenheit to Kelvin List",
+    "input": "List of floats (temperatures in Fahrenheit)",
+    "output": "List of floats (temperatures converted to Kelvin)"
+  },
+  {
+    "task": "ASCII Sum",
+    "input": "String",
+    "output": "Integer sum of the ASCII values of all characters in the string"
+  },
+  {
+    "task": "Alphanumeric Check",
+    "input": "String",
+    "output": "Boolean indicating whether every character is alphanumeric"
+  },
+  {
+    "task": "Pronic Numbers",
+    "input": "Integer n",
+    "output": "List of the first n pronic numbers (numbers of the form k*(k+1))"
+  },
+  {
+    "task": "Identity Matrix Check",
+    "input": "List of lists of numbers (square matrix)",
+    "output": "Boolean indicating whether the matrix is an identity matrix"
+  },
+  {
+    "task": "Distance Between Points",
+    "input": "Two tuples of numbers (coordinates of two points)",
+    "output": "Float representing the Euclidean distance between the points"
+  },
+  {
+    "task": "Split String into Chunks",
+    "input": "string and integer chunk_size",
+    "output": "list of substrings of length chunk_size (last may be shorter)"
+  },
+  {
+    "task": "Sum of Digits at Even Positions",
+    "input": "integer number",
+    "output": "integer sum of digits at even indices (0-based)"
+  },
+  {
+    "task": "Unique Words Sorted",
+    "input": "string sentence",
+    "output": "list of unique words sorted alphabetically"
+  },
+  {
+    "task": "Intersperse List",
+    "input": "list elements and a separator element",
+    "output": "new list with the separator inserted between original elements"
+  },
+  {
+    "task": "Power of Two Check",
+    "input": "integer n",
+    "output": "boolean indicating whether n is a power of two"
+  },
+  {
+    "task": "Sum First and Last Digit",
+    "input": "integer number",
+    "output": "integer sum of its first and last digit"
+  },
+  {
+    "task": "Harmonic Mean",
+    "input": "list of positive numbers",
+    "output": "float harmonic mean of the numbers"
+  },
+  {
+    "task": "Seconds to H:M:S",
+    "input": "integer total_seconds",
+    "output": "tuple of three integers (hours, minutes, seconds)"
+  },
+  {
+    "task": "Alphabet Position Sum",
+    "input": "string text",
+    "output": "integer sum of letter positions (A=1, B=2, \u2026; ignore non-letters)"
+  },
+  {
+    "task": "Derangement Check",
+    "input": "two lists of equal length",
+    "output": "boolean indicating no element is in the same position in both lists"
+  },
+  {
+    "task": "Trapezoid Area Calculator",
+    "input": "two floats representing the lengths of the parallel bases and a float for the height",
+    "output": "float area of the trapezoid"
+  },
+  {
+    "task": "Sliding Window Median",
+    "input": "list of integers and an integer window size",
+    "output": "list of floats representing the median of each sliding window"
+  },
+  {
+    "task": "Format Credit Card Number",
+    "input": "string of digits",
+    "output": "string with the digits grouped into blocks of four separated by spaces"
+  },
+  {
+    "task": "Rectangle Overlap Checker",
+    "input": "two tuples each containing four integers (x1, y1, x2, y2) defining opposite corners of two rectangles",
+    "output": "boolean indicating whether the rectangles overlap"
+  },
+  {
+    "task": "Flatten Dictionary",
+    "input": "nested dictionary with string keys and non-dictionary values",
+    "output": "flat dictionary where nested keys are joined by dots to represent the path"
+  },
+  {
+    "task": "Text Statistics",
+    "input": "multiline string",
+    "output": "tuple of three integers: (number of lines, number of words, number of characters)"
+  },
+  {
+    "task": "String Permutations",
+    "input": "string",
+    "output": "list of all unique permutations of the string\u2019s characters"
+  },
+  {
+    "task": "Closest Pair Finder",
+    "input": "list of integers",
+    "output": "tuple of two integers from the list that have the smallest absolute difference"
+  },
+  {
+    "task": "Digit Frequency in Range",
+    "input": "two integers defining a range [a, b]",
+    "output": "dictionary mapping each digit (0\u20139) to its total count in all numbers from a to b inclusive"
+  },
+  {
+    "task": "Normalize Spaces",
+    "input": "string",
+    "output": "string with all sequences of whitespace replaced by a single space and trimmed of leading/trailing spaces"
+  },
+  {
+    "task": "Sum of Proper Divisors",
+    "input": "integer n (>0)",
+    "output": "sum of all divisors of n excluding n itself"
+  },
+  {
+    "task": "Power of Three Check",
+    "input": "integer n",
+    "output": "boolean indicating if n is a power of three"
+  },
+  {
+    "task": "Excel Column Title to Number",
+    "input": "string of uppercase letters",
+    "output": "corresponding column number as an integer"
+  },
+  {
+    "task": "Monotonic List Check",
+    "input": "list of numbers",
+    "output": "boolean indicating if list is entirely non-increasing or non-decreasing"
+  },
+  {
+    "task": "Alternating Vowel Consonant",
+    "input": "string of letters",
+    "output": "boolean indicating if letters alternate between vowel and consonant"
+  },
+  {
+    "task": "All String Rotations",
+    "input": "string s",
+    "output": "list of all cyclic rotations of s"
+  },
+  {
+    "task": "Simple Expression Evaluation",
+    "input": "string containing non-negative integers with '+' and '-' operators",
+    "output": "integer result after evaluating the expression left to right"
+  },
+  {
+    "task": "CamelCase Word Count",
+    "input": "camelCase string",
+    "output": "integer count of words in the string"
+  },
+  {
+    "task": "Repeated Substring Pattern Check",
+    "input": "string s",
+    "output": "boolean indicating if s can be formed by repeating a substring"
+  },
+  {
+    "task": "First Missing Positive",
+    "input": "list of integers",
+    "output": "smallest missing positive integer (\u22651)"
+  },
+  {
+    "task": "Pairs With Difference K",
+    "input": "a list of integers and an integer K",
+    "output": "a list of tuples of integer pairs whose absolute difference equals K"
+  },
+  {
+    "task": "List Perfect Squares",
+    "input": "an integer N",
+    "output": "a list of all perfect squares less than or equal to N"
+  },
+  {
+    "task": "Categorize Numbers",
+    "input": "a list of integers",
+    "output": "a dictionary with keys \"positive\", \"negative\", \"zero\" and their respective counts"
+  },
+  {
+    "task": "Matrix Column Maxima",
+    "input": "a list of lists of numbers representing a matrix",
+    "output": "a list of the maximum value from each column"
+  },
+  {
+    "task": "Reverse Each Word",
+    "input": "a string containing multiple words separated by spaces",
+    "output": "a string where each word is reversed but the word order remains the same"
+  },
+  {
+    "task": "Next Greater Element",
+    "input": "a list of integers",
+    "output": "a list where each element is replaced by the next greater element to its right in the list or -1 if none exists"
+  },
+  {
+    "task": "Armstrong Numbers In Range",
+    "input": "two integers representing the start and end of a range (inclusive)",
+    "output": "a list of all Armstrong numbers within that range"
+  },
+  {
+    "task": "Count Digits Per Number",
+    "input": "a list of non-negative integers",
+    "output": "a list of integers representing the digit count of each input number"
+  },
+  {
+    "task": "Split Into Increasing Runs",
+    "input": "a list of integers",
+    "output": "a list of lists, each sublist being a maximal strictly increasing contiguous run from the input"
+  },
+  {
+    "task": "Longest Unique-Char Word",
+    "input": "a list of strings",
+    "output": "the longest string that contains no repeated characters (if tie, return any)"
+  },
+  {
+    "task": "Determinant 2x2 Matrix",
+    "input": "two-dimensional list of four numbers (2x2 matrix)",
+    "output": "determinant value"
+  },
+  {
+    "task": "Mirror List",
+    "input": "list of elements",
+    "output": "list concatenated with its reverse"
+  },
+  {
+    "task": "Replace Vowels",
+    "input": "string",
+    "output": "string with all vowels replaced by '*'"
+  },
+  {
+    "task": "Generate Odd Numbers",
+    "input": "integer n",
+    "output": "list of the first n odd numbers"
+  },
+  {
+    "task": "Character Positions",
+    "input": "string of lowercase letters",
+    "output": "list of integer positions in the alphabet (a=1, b=2, \u2026)"
+  },
+  {
+    "task": "Extract Vowel Words",
+    "input": "string (sentence)",
+    "output": "list of words that start with a vowel"
+  },
+  {
+    "task": "Count Leading Zeros",
+    "input": "string of digits",
+    "output": "integer count of leading '0' characters"
+  },
+  {
+    "task": "Key with Maximum Value",
+    "input": "dictionary with numeric values",
+    "output": "key corresponding to the maximum value"
+  },
+  {
+    "task": "Sort Tuples by Sum",
+    "input": "list of tuples of numbers",
+    "output": "list of tuples sorted by the sum of their elements"
+  },
+  {
+    "task": "Swap Variables Without Temp",
+    "input": "Two numbers (ints or floats)",
+    "output": "A tuple with the two numbers swapped"
+  },
+  {
+    "task": "Element-wise List Maximum",
+    "input": "Two lists of numbers of equal length",
+    "output": "A list where each element is the maximum of the corresponding elements of the input lists"
+  },
+  {
+    "task": "Arithmetic Progression Check",
+    "input": "A list of numbers",
+    "output": "Boolean indicating whether the list elements form an arithmetic progression when ordered"
+  },
+  {
+    "task": "Product Except Self",
+    "input": "A list of numbers",
+    "output": "A list where each element is the product of all other elements in the input list except itself"
+  },
+  {
+    "task": "Kth Smallest Element",
+    "input": "A list of numbers and an integer k",
+    "output": "The kth smallest element in the list"
+  },
+  {
+    "task": "Count Trailing Ones in Binary",
+    "input": "An integer",
+    "output": "The count of consecutive 1s at the least significant end of its binary representation"
+  },
+  {
+    "task": "Ugly Number Check",
+    "input": "An integer",
+    "output": "Boolean indicating whether the number\u2019s only prime factors are 2, 3, or 5"
+  },
+  {
+    "task": "Words Longer Than Average",
+    "input": "A string sentence",
+    "output": "A list of words from the sentence whose length is greater than the average word length"
+  },
+  {
+    "task": "ASCII Value List",
+    "input": "A string",
+    "output": "A list of integers representing the ASCII code of each character in the string"
+  },
+  {
+    "task": "Group Words by Initial",
+    "input": "A list of strings",
+    "output": "A dictionary mapping each initial character to a list of words beginning with that character"
+  },
+  {
+    "task": "ATM Cash Dispenser",
+    "input": "Integer amount",
+    "output": "Dictionary mapping note denominations to counts"
+  },
+  {
+    "task": "Triangle Area Calculator",
+    "input": "List of three coordinate pairs as tuples of floats",
+    "output": "Float area of the triangle"
+  },
+  {
+    "task": "Sum of Digits in List",
+    "input": "List of non-negative integers",
+    "output": "List of integers representing the sum of digits for each input number"
+  },
+  {
+    "task": "Join List with Delimiter",
+    "input": "List of strings and a string delimiter",
+    "output": "Single string with elements joined by the delimiter"
+  },
+  {
+    "task": "Max Adjacent Difference",
+    "input": "List of numbers (integers or floats)",
+    "output": "Maximum absolute difference between consecutive elements"
+  },
+  {
+    "task": "Longest Binary Ones Run",
+    "input": "Non-negative integer",
+    "output": "Integer length of the longest run of consecutive '1's in its binary representation"
+  },
+  {
+    "task": "Random Case String",
+    "input": "String text",
+    "output": "String with each alphabetic character randomly converted to uppercase or lowercase"
+  },
+  {
+    "task": "Luhn Checksum Validation",
+    "input": "Numeric string",
+    "output": "Boolean indicating whether the string passes the Luhn check"
+  },
+  {
+    "task": "Bracket Balance Check",
+    "input": "String containing brackets '()', '[]', '{}'",
+    "output": "Boolean indicating whether all bracket types are properly balanced"
+  },
+  {
+    "task": "Valid Identifier Check",
+    "input": "String",
+    "output": "Boolean indicating whether the string is a valid Python identifier"
+  },
+  {
+    "task": "Kaprekar Number Check",
+    "input": "integer n",
+    "output": "Boolean indicating whether n is a Kaprekar number"
+  },
+  {
+    "task": "Floyd\u2019s Triangle Generator",
+    "input": "integer rows",
+    "output": "list of lists representing Floyd\u2019s triangle with given number of rows"
+  },
+  {
+    "task": "Spiral Matrix Generator",
+    "input": "integer n",
+    "output": "n\u00d7n matrix (list of lists) filled in spiral order from 1 to n\u00b2"
+  },
+  {
+    "task": "Sum at Prime Indices",
+    "input": "list of integers",
+    "output": "integer sum of elements at prime indices (0-based)"
+  },
+  {
+    "task": "Max Parentheses Depth",
+    "input": "string containing parentheses",
+    "output": "integer representing maximum nesting depth of parentheses"
+  },
+  {
+    "task": "Number to English Words",
+    "input": "integer n (0 \u2264 n < 1000000)",
+    "output": "string with the English words representation of n"
+  },
+  {
+    "task": "Pi Approximation (Leibniz)",
+    "input": "integer terms",
+    "output": "float approximation of \u03c0 using given number of terms in the Leibniz series"
+  },
+  {
+    "task": "Bit Swap",
+    "input": "integer n, integer i, integer j (bit positions)",
+    "output": "integer result after swapping the i-th and j-th bits of n"
+  },
+  {
+    "task": "Partition List by Pivot",
+    "input": "list of integers, integer pivot",
+    "output": "three lists: elements less than, equal to, and greater than the pivot"
+  },
+  {
+    "task": "Longest Binary Zero Run",
+    "input": "integer n",
+    "output": "integer length of the longest consecutive run of zeros in the binary representation of n"
+  },
+  {
+    "task": "Sum of Multiples of K",
+    "input": "Two integers n and k",
+    "output": "Integer sum of all positive integers \u2264 n that are divisible by k"
+  },
+  {
+    "task": "Insert Into Sorted List",
+    "input": "A list of integers sorted in ascending order and an integer value",
+    "output": "A new list with the value inserted, maintaining sorted order"
+  },
+  {
+    "task": "Count Words Ending with Vowel",
+    "input": "A string containing one or more words separated by spaces",
+    "output": "Integer count of words that end with a vowel (a, e, i, o, u, case\u2010insensitive)"
+  },
+  {
+    "task": "Distance From Point to Line",
+    "input": "Five floats x, y, a, b, c representing point (x,y) and line ax + by + c = 0",
+    "output": "Float distance from the point to the line"
+  },
+  {
+    "task": "Prime Ones Check",
+    "input": "An integer n",
+    "output": "Boolean indicating whether the count of '1's in the binary representation of n is a prime number"
+  },
+  {
+    "task": "Next Power of Two",
+    "input": "An integer n",
+    "output": "The smallest power of two greater than or equal to n"
+  },
+  {
+    "task": "Word Occurrence Positions",
+    "input": "A string of words separated by spaces",
+    "output": "A dictionary mapping each word to a list of its 1-based positions in the string"
+  },
+  {
+    "task": "Scrabble Score",
+    "input": "A single word string",
+    "output": "Integer total score based on standard English Scrabble letter values"
+  },
+  {
+    "task": "Compare Version Numbers",
+    "input": "Two version strings (e.g., \"1.2.10\", \"1.3\")",
+    "output": "Integer -1 if first < second, 0 if equal, 1 if first > second"
+  },
+  {
+    "task": "Ones Complement",
+    "input": "A binary string containing only '0' and '1'",
+    "output": "A binary string where each bit is inverted (0\u21921, 1\u21920)"
+  },
+  {
+    "task": "Triangle Type Finder",
+    "input": "Three numbers representing the lengths of the sides",
+    "output": "A string: \u201cEquilateral\u201d, \u201cIsosceles\u201d, \u201cScalene\u201d or \u201cNot a triangle\u201d"
+  },
+  {
+    "task": "Next Date Calculator",
+    "input": "Three integers: day, month, year",
+    "output": "A string in format \u201cYYYY-MM-DD\u201d representing the next calendar date"
+  },
+  {
+    "task": "Centroid of Points",
+    "input": "A list of tuples, each tuple containing two numbers (x, y)",
+    "output": "A tuple of two floats representing the centroid coordinates (x\u0304, \u0233)"
+  },
+  {
+    "task": "Spiral Matrix Traversal",
+    "input": "A 2D list of numbers (matrix)",
+    "output": "A list of numbers in the order they appear in a clockwise spiral traversal"
+  },
+  {
+    "task": "Longest Consecutive Character",
+    "input": "A string",
+    "output": "A tuple containing the character with the longest consecutive run and its run length (char, count)"
+  },
+  {
+    "task": "RGB to Hex Converter",
+    "input": "Three integers (R, G, B), each in the range 0\u2013255",
+    "output": "A string representing the color in hexadecimal format, e.g., \u201c#4A73B2\u201d"
+  },
+  {
+    "task": "Initials Extractor",
+    "input": "A string containing a person\u2019s full name (words separated by spaces)",
+    "output": "A string of the uppercase initials concatenated"
+  },
+  {
+    "task": "Permutation Check",
+    "input": "Two lists of elements",
+    "output": "A boolean indicating whether one list is a permutation of the other"
+  },
+  {
+    "task": "Polygon Interior Angle Sum",
+    "input": "An integer n (>2) representing the number of sides of a polygon",
+    "output": "An integer equal to the sum of the interior angles in degrees"
+  },
+  {
+    "task": "Diagonal Difference",
+    "input": "A square 2D list of numbers (n x n matrix)",
+    "output": "An integer equal to the absolute difference between the sums of its two diagonals"
+  },
+  {
+    "task": "Swap List Halves",
+    "input": "list of elements",
+    "output": "list of elements with the first half and second half swapped"
+  },
+  {
+    "task": "Check List Rotation",
+    "input": "two lists of integers",
+    "output": "boolean indicating if one list is a rotation of the other"
+  },
+  {
+    "task": "Extract Prime-Position Elements",
+    "input": "list of integers",
+    "output": "list of elements whose positions (1-based) are prime numbers"
+  },
+  {
+    "task": "Largest Successive Gap",
+    "input": "list of integers",
+    "output": "maximum difference between successive elements after sorting the list"
+  },
+  {
+    "task": "Shortest Word Finder",
+    "input": "string representing a sentence",
+    "output": "the shortest word in the sentence"
+  },
+  {
+    "task": "Identify List Duplicates",
+    "input": "list of elements",
+    "output": "list of elements that appear more than once (each duplicate listed once)"
+  },
+  {
+    "task": "Time Format Validation",
+    "input": "string in \"HH:MM:SS\" format",
+    "output": "boolean indicating whether it represents a valid time (00\u2264HH<24, 00\u2264MM<60, 00\u2264SS<60)"
+  },
+  {
+    "task": "Next Perfect Square",
+    "input": "positive integer",
+    "output": "the smallest perfect square strictly greater than the input"
+  },
+  {
+    "task": "Line Lengths",
+    "input": "multiline string",
+    "output": "list of integers representing the length of each line"
+  },
+  {
+    "task": "Line Word Counts",
+    "input": "multiline string",
+    "output": "list of integers representing the word count of each line"
+  },
+  {
+    "task": "Fibonacci Sequence",
+    "input": "integer n",
+    "output": "list of the first n Fibonacci numbers"
+  },
+  {
+    "task": "Snake to Pascal Case",
+    "input": "string in snake_case",
+    "output": "string converted to PascalCase"
+  },
+  {
+    "task": "Matrix Rotate 180",
+    "input": "square matrix as a list of lists",
+    "output": "matrix rotated by 180 degrees"
+  },
+  {
+    "task": "Case-Insensitive Sort",
+    "input": "list of strings",
+    "output": "list of strings sorted alphabetically ignoring case"
+  },
+  {
+    "task": "Trim List",
+    "input": "list and integer n",
+    "output": "list containing the first n elements (or the whole list if shorter)"
+  },
+  {
+    "task": "Remove Items by Index",
+    "input": "list and list of integer indices",
+    "output": "list after removing elements at the given indices"
+  },
+  {
+    "task": "Remove Digits",
+    "input": "string",
+    "output": "string with all digit characters removed"
+  },
+  {
+    "task": "Weighted Random Choice",
+    "input": "list of items and a list of numeric weights of the same length",
+    "output": "one item randomly chosen according to the given weights"
+  },
+  {
+    "task": "Sieve of Eratosthenes",
+    "input": "Integer n",
+    "output": "List of prime numbers up to n"
+  },
+  {
+    "task": "Rectangle Perimeter Calculator",
+    "input": "Two floats representing length and width",
+    "output": "Float representing the perimeter"
+  },
+  {
+    "task": "Fahrenheit to Celsius List",
+    "input": "List of floats (temperatures in Fahrenheit)",
+    "output": "List of floats (temperatures in Celsius)"
+  },
+  {
+    "task": "Leet Speak Converter",
+    "input": "String",
+    "output": "String with characters converted to leet equivalents (e.g., A\u21924, E\u21923)"
+  },
+  {
+    "task": "Credit Card Masking",
+    "input": "String representing a credit card number",
+    "output": "String with all but the last four digits replaced by \u2018*\u2019"
+  },
+  {
+    "task": "Bubble Sort Algorithm",
+    "input": "List of integers",
+    "output": "List of integers sorted in ascending order"
+  },
+  {
+    "task": "Selection Sort Algorithm",
+    "input": "List of integers",
+    "output": "List of integers sorted in ascending order"
+  },
+  {
+    "task": "Most Frequent Adjacent Pair",
+    "input": "List of integers",
+    "output": "Tuple representing the adjacent pair that occurs most frequently"
+  },
+  {
+    "task": "Seconds to DHMS",
+    "input": "Integer number of seconds",
+    "output": "Tuple of four integers (days, hours, minutes, seconds)"
+  },
+  {
+    "task": "Hex to RGB Converter",
+    "input": "String representing a hexadecimal color code (e.g., \"#FFA500\")",
+    "output": "Tuple of three integers representing the RGB values"
+  },
+  {
+    "task": "Lucky Ticket Check",
+    "input": "a six-digit integer",
+    "output": "True if the sum of the first three digits equals the sum of the last three digits, otherwise False"
+  },
+  {
+    "task": "Words by Initial Count",
+    "input": "a string representing a sentence",
+    "output": "a dictionary mapping each starting letter to the count of words that begin with that letter"
+  },
+  {
+    "task": "Extract Domain",
+    "input": "a string representing a URL",
+    "output": "the domain part of the URL as a string"
+  },
+  {
+    "task": "Carry Operations Counter",
+    "input": "two non-negative integers",
+    "output": "the number of carry operations that occur when adding the two integers digit by digit"
+  },
+  {
+    "task": "Simplify Fraction",
+    "input": "two integers (numerator and denominator)",
+    "output": "a tuple of two integers representing the simplified numerator and denominator"
+  },
+  {
+    "task": "Next Power of Three",
+    "input": "a positive integer n",
+    "output": "the smallest power of 3 that is greater than or equal to n"
+  },
+  {
+    "task": "Upper Triangle Sum",
+    "input": "a square matrix represented as a list of lists of numbers",
+    "output": "the sum of all elements in the upper triangle of the matrix (including the main diagonal)"
+  },
+  {
+    "task": "Remove Every Nth Element",
+    "input": "a list and an integer n",
+    "output": "a new list with every nth element removed from the original list"
+  },
+  {
+    "task": "Mask Phone Number",
+    "input": "a string representing a phone number",
+    "output": "the phone number string with all digits replaced by \u2018*\u2019 except the last four digits"
+  },
+  {
+    "task": "Geometric Sequence Check",
+    "input": "a list of numbers",
+    "output": "True if the numbers form a geometric sequence, otherwise False"
+  },
+  {
+    "task": "Peak Indices",
+    "input": "list of integers",
+    "output": "list of integer indices where each element is strictly greater than its immediate neighbors"
+  },
+  {
+    "task": "Byte Size Formatter",
+    "input": "integer (number of bytes)",
+    "output": "string representing size in appropriate unit (B, KB, MB, GB) with one decimal"
+  },
+  {
+    "task": "Top N Frequent Elements",
+    "input": "list of hashable items, integer N",
+    "output": "list of the N most frequent items in descending frequency order"
+  },
+  {
+    "task": "Element-wise Subtraction",
+    "input": "two lists of numbers of equal length",
+    "output": "list of numbers where each element is the difference of corresponding elements (first minus second)"
+  },
+  {
+    "task": "Insert Element at Positions",
+    "input": "list of elements, single element, list of integer positions",
+    "output": "new list with the element inserted at each specified position in the original order"
+  },
+  {
+    "task": "Translate Characters",
+    "input": "string, dictionary mapping single characters to replacement characters",
+    "output": "new string with characters replaced according to the mapping"
+  },
+  {
+    "task": "Round List Values",
+    "input": "list of floats, integer number of decimal places",
+    "output": "list of floats each rounded to the specified number of decimal places"
+  },
+  {
+    "task": "Snake Case to Title Case",
+    "input": "string in snake_case",
+    "output": "string converted to Title Case (spaces and capitalized words)"
+  },
+  {
+    "task": "Average of Unique Values",
+    "input": "list of numbers",
+    "output": "float representing the average of only the unique numbers in the list"
+  },
+  {
+    "task": "Unique Char Count",
+    "input": "list of strings",
+    "output": "dictionary mapping each input string to the count of unique characters it contains"
+  },
+  {
+    "task": "Max Consecutive Vowels",
+    "input": "string",
+    "output": "integer"
+  },
+  {
+    "task": "Binary List to Integer",
+    "input": "list of integers (each 0 or 1)",
+    "output": "integer"
+  },
+  {
+    "task": "Digit to Word Conversion",
+    "input": "string (may contain digits)",
+    "output": "string"
+  },
+  {
+    "task": "Remove Palindromes",
+    "input": "list of strings",
+    "output": "list of strings"
+  },
+  {
+    "task": "Alternate Case Conversion",
+    "input": "string",
+    "output": "string"
+  },
+  {
+    "task": "Move Zeros to End",
+    "input": "list of integers",
+    "output": "list of integers"
+  },
+  {
+    "task": "Reverse Word Order",
+    "input": "string (words separated by spaces)",
+    "output": "string"
+  },
+  {
+    "task": "Sum of Unique Elements",
+    "input": "list of integers",
+    "output": "integer"
+  },
+  {
+    "task": "Longest Consecutive Run",
+    "input": "list of integers",
+    "output": "integer"
+  },
+  {
+    "task": "First Repeated Character",
+    "input": "string",
+    "output": "single character (or empty if none)"
+  },
+  {
+    "task": "Move Vowels to Front",
+    "input": "a string",
+    "output": "a string with all vowels moved to the front, preserving original order"
+  },
+  {
+    "task": "Pair Sum Closest to Zero",
+    "input": "a list of integers",
+    "output": "a tuple of two integers whose sum is closest to zero"
+  },
+  {
+    "task": "Kth Largest Unique Element",
+    "input": "a list of numbers and an integer k",
+    "output": "the kth largest unique number or None if there are fewer than k unique numbers"
+  },
+  {
+    "task": "Validate US Phone Number",
+    "input": "a string",
+    "output": "a boolean indicating whether it\u2019s a valid US phone number (e.g., \u201c(123) 456-7890\u201d, \u201c123-456-7890\u201d or \u201c1234567890\u201d)"
+  },
+  {
+    "task": "Max Depth of Nested List",
+    "input": "a list that may contain nested lists",
+    "output": "an integer representing the maximum depth of nesting"
+  },
+  {
+    "task": "First N Happy Numbers",
+    "input": "an integer n",
+    "output": "a list of the first n happy numbers"
+  },
+  {
+    "task": "Alternating Positive/Negative Check",
+    "input": "a list of integers",
+    "output": "a boolean indicating whether the sign of the numbers alternates (positive/negative) throughout the list"
+  },
+  {
+    "task": "Remove Falsy Values",
+    "input": "a list of values",
+    "output": "a list with all falsy values (e.g., 0, \"\", None, False) removed"
+  },
+  {
+    "task": "Largest Square \u2264 N",
+    "input": "an integer n",
+    "output": "the largest perfect square integer less than or equal to n"
+  },
+  {
+    "task": "Binary Gap",
+    "input": "an integer",
+    "output": "an integer representing the length of the longest sequence of consecutive zeros surrounded by ones in its binary representation"
+  },
+  {
+    "task": "Count Numeric Substrings",
+    "input": "a string",
+    "output": "an integer representing the number of contiguous digit substrings"
+  },
+  {
+    "task": "Alternate Merge Lists",
+    "input": "two lists of equal length",
+    "output": "a single list with elements alternating from each input list"
+  },
+  {
+    "task": "Sliding Window Range",
+    "input": "a list of numbers and an integer window size",
+    "output": "a list of ranges (max\u2212min) for each sliding window"
+  },
+  {
+    "task": "Double Letter Words Finder",
+    "input": "a sentence (string)",
+    "output": "a list of words containing at least one repeated letter consecutively"
+  },
+  {
+    "task": "DNA to RNA Transcription",
+    "input": "a DNA string composed of characters A, T, C, G",
+    "output": "a string with all T characters replaced by U"
+  },
+  {
+    "task": "Fixed-Width Binary Conversion",
+    "input": "an integer and a width (integer)",
+    "output": "a binary string of the given width representing the integer (padded with leading zeros)"
+  },
+  {
+    "task": "Capitalize Sentences",
+    "input": "a paragraph string with sentences ending in '.', '!' or '?'",
+    "output": "the string with the first letter of each sentence capitalized"
+  },
+  {
+    "task": "Vowel Count per Word",
+    "input": "a sentence (string)",
+    "output": "a dictionary mapping each word to its count of vowels"
+  },
+  {
+    "task": "Toeplitz Matrix Check",
+    "input": "a matrix represented as a list of lists",
+    "output": "a boolean indicating whether each descending diagonal left-to-right is constant"
+  },
+  {
+    "task": "Remove URLs",
+    "input": "a string containing words and URLs starting with 'http://' or 'https://'",
+    "output": "the string with all URLs removed"
+  },
+  {
+    "task": "Ordinal Suffix",
+    "input": "integer n",
+    "output": "string representing n with its ordinal suffix (e.g., \"1st\", \"2nd\", \"3rd\")"
+  },
+  {
+    "task": "Days in Month",
+    "input": "two integers month (1\u201312) and year",
+    "output": "integer number of days in that month accounting for leap years"
+  },
+  {
+    "task": "Move Uppercase to Front",
+    "input": "string",
+    "output": "string with all uppercase letters moved to the front in their original order, followed by the remaining characters in original order"
+  },
+  {
+    "task": "Balanced Brackets",
+    "input": "string containing characters '(', ')', '{', '}', '[' and ']'",
+    "output": "boolean indicating whether the brackets in the string are properly balanced and nested"
+  },
+  {
+    "task": "Next Permutation",
+    "input": "list of integers",
+    "output": "list of integers representing the next lexicographical permutation of the input list; if none exists, return the list sorted in ascending order"
+  },
+  {
+    "task": "Arithmetic Sequence Check",
+    "input": "list of numbers",
+    "output": "boolean indicating whether the numbers form an arithmetic sequence (constant difference)"
+  },
+  {
+    "task": "String Prefixes",
+    "input": "string",
+    "output": "list of all prefixes of the input string, from the first character up to the full string"
+  },
+  {
+    "task": "Consecutive Number Runs",
+    "input": "list of integers",
+    "output": "list of lists, each sublist being a maximal run of consecutive integers (difference of 1) from the original list"
+  },
+  {
+    "task": "Highlight Repeats",
+    "input": "string",
+    "output": "string where each character occurring after its first appearance is replaced by '*'"
+  },
+  {
+    "task": "Time Interval Overlap",
+    "input": "two strings in the format \"HH:MM-HH:MM\" representing two time intervals",
+    "output": "boolean indicating whether the two time intervals overlap"
+  },
+  {
+    "task": "Top K Longest Words",
+    "input": "A string of words and an integer k",
+    "output": "A list of k longest words in descending order of length"
+  },
+  {
+    "task": "Interleave Two Strings",
+    "input": "Two strings",
+    "output": "A single string formed by alternating characters from each string, with leftovers appended"
+  },
+  {
+    "task": "Acronym Generator",
+    "input": "A string containing multiple words",
+    "output": "A string of uppercase initials of each word"
+  },
+  {
+    "task": "Neighbor Product List",
+    "input": "A list of integers",
+    "output": "A list where each element (except first and last) is the product of its immediate neighbors in the original list; first and last remain unchanged"
+  },
+  {
+    "task": "Sum of Element Occurrence Indices",
+    "input": "A list and a target element",
+    "output": "An integer sum of all indices where the target element appears"
+  },
+  {
+    "task": "Cumulative String Concatenation",
+    "input": "A list of strings",
+    "output": "A list where each element is the concatenation of all strings from the start up to that position"
+  },
+  {
+    "task": "Sum of Even Numbers at Odd Indices",
+    "input": "A list of integers",
+    "output": "An integer sum of elements that are even and located at odd indices"
+  },
+  {
+    "task": "Sort List by Modulo",
+    "input": "A list of integers and an integer m",
+    "output": "The list sorted by each element\u2019s value modulo m"
+  },
+  {
+    "task": "Abbreviate Words",
+    "input": "A string containing multiple words",
+    "output": "A string where each word is abbreviated as first letter + count of middle letters + last letter"
+  },
+  {
+    "task": "Row Sum of Matrix",
+    "input": "A 2D list of numbers",
+    "output": "A list of sums, one for each row in the matrix"
+  },
+  {
+    "task": "Sum Without Extremes",
+    "input": "list of integers",
+    "output": "integer sum excluding the smallest and largest values once"
+  },
+  {
+    "task": "Pair Product Finder",
+    "input": "list of integers, integer target",
+    "output": "list of tuples of two integers whose product equals the target"
+  },
+  {
+    "task": "Substring Replacement",
+    "input": "string text, string old, string new",
+    "output": "string with all occurrences of old replaced by new"
+  },
+  {
+    "task": "Count Even and Odd",
+    "input": "list of integers",
+    "output": "tuple of two integers (even_count, odd_count)"
+  },
+  {
+    "task": "Max Identical Run",
+    "input": "list of integers",
+    "output": "tuple (value, length of the longest consecutive run of that value)"
+  },
+  {
+    "task": "Matrix Element-wise Sum",
+    "input": "two matrices as lists of lists of numbers (same dimensions)",
+    "output": "matrix (list of lists) with each element the sum of corresponding elements"
+  },
+  {
+    "task": "Disjoint List Check",
+    "input": "two lists",
+    "output": "boolean indicating whether they share no common elements"
+  },
+  {
+    "task": "Group by Digit Sum",
+    "input": "list of non-negative integers",
+    "output": "dictionary mapping each digit sum to a list of numbers with that sum"
+  },
+  {
+    "task": "List Divisors",
+    "input": "integer n",
+    "output": "list of all positive divisors of n"
+  },
+  {
+    "task": "Convert Minutes to Hours and Minutes",
+    "input": "integer total_minutes",
+    "output": "tuple (hours, minutes)"
+  },
+  {
+    "task": "Count Smileys",
+    "input": "A single string",
+    "output": "An integer count of occurrences of \u201c:)\u201d or \u201c:-)\u201d"
+  },
+  {
+    "task": "Extract Longest Number Sequence",
+    "input": "A single string",
+    "output": "The longest contiguous substring consisting only of digits"
+  },
+  {
+    "task": "Sort Names by Last Name",
+    "input": "A list of strings, each \u201cFirst Last\u201d",
+    "output": "A list of the same strings sorted alphabetically by last name"
+  },
+  {
+    "task": "Matrix Row Cumulative Sum",
+    "input": "A list of lists of integers (matrix)",
+    "output": "A new list of lists where each row is replaced by its cumulative sum list"
+  },
+  {
+    "task": "Characters at Prime Indices",
+    "input": "A single string",
+    "output": "A string of characters from the input whose 0-based index is a prime number"
+  },
+  {
+    "task": "Island Count in Grid",
+    "input": "A 2D list of integers (0s and 1s)",
+    "output": "An integer count of \u201cislands,\u201d groups of adjacent 1s connected horizontally or vertically"
+  },
+  {
+    "task": "Expand Character Ranges",
+    "input": "A single string containing ranges like \u201ca-d\u201d or \u201c3-6\u201d",
+    "output": "A string with each range replaced by its full sequence (e.g., \u201ca-d\u201d \u2192 \u201cabcd\u201d)"
+  },
+  {
+    "task": "Day of Week Resolver",
+    "input": "A string in \u201cYYYY-MM-DD\u201d format",
+    "output": "The weekday name for that date (e.g., \u201cMonday\u201d)"
+  },
+  {
+    "task": "Common Substring Finder",
+    "input": "Two strings and an integer k",
+    "output": "A boolean indicating if there is any common substring of length k"
+  },
+  {
+    "task": "Digit to Word Converter",
+    "input": "A single string containing digit characters",
+    "output": "A string where each digit is replaced by its English word (e.g., \u201c1\u201d \u2192 \u201cone\u201d)"
+  },
+  {
+    "task": "Count Prime Length Words",
+    "input": "string (sentence)",
+    "output": "integer (number of words whose length is a prime number)"
+  },
+  {
+    "task": "Swap Rows in Matrix",
+    "input": "list of lists (matrix), two integers (row indices)",
+    "output": "list of lists (matrix with the two rows swapped)"
+  },
+  {
+    "task": "Sum Numbers in String",
+    "input": "string (contains integers amidst other characters)",
+    "output": "integer (sum of all integers found in the string)"
+  },
+  {
+    "task": "Max Nested List Depth",
+    "input": "nested list (elements may be lists or non-lists)",
+    "output": "integer (maximum depth of nesting)"
+  },
+  {
+    "task": "Missing Vowels",
+    "input": "string",
+    "output": "list of characters (vowels not present in the string)"
+  },
+  {
+    "task": "Cumulative Minimum List",
+    "input": "list of numbers",
+    "output": "list of numbers where each element is the minimum from the start up to that index"
+  },
+  {
+    "task": "Convert Milliseconds to Time",
+    "input": "integer (milliseconds)",
+    "output": "string in the format \"H:M:S:MS\""
+  },
+  {
+    "task": "Find Two Missing Numbers",
+    "input": "list of unique integers from 1 to n with two missing",
+    "output": "tuple of two integers (the missing numbers, sorted)"
+  },
+  {
+    "task": "Check Sum of Squares Perfect Square",
+    "input": "list of numbers",
+    "output": "boolean (True if the sum of their squares is a perfect square, otherwise False)"
+  },
+  {
+    "task": "Replace Words with Positions",
+    "input": "string (sentence)",
+    "output": "string (each word replaced by its 1-based position in the sentence)"
+  },
+  {
+    "task": "Swap Min and Max in List",
+    "input": "list of integers",
+    "output": "list of integers with the minimum and maximum values swapped"
+  },
+  {
+    "task": "Substring Extractor",
+    "input": "string, integer start index, integer end index",
+    "output": "substring from start index up to (but not including) end index"
+  },
+  {
+    "task": "Alternating Sum",
+    "input": "list of numbers",
+    "output": "single number equal to a[0] - a[1] + a[2] - a[3] \u2026"
+  },
+  {
+    "task": "Replace Character",
+    "input": "string, integer index, single character",
+    "output": "new string with the character at the given index replaced"
+  },
+  {
+    "task": "Sum Divisible by K",
+    "input": "list of integers, integer k",
+    "output": "integer sum of all list elements divisible by k"
+  },
+  {
+    "task": "Prefix Product List",
+    "input": "list of numbers",
+    "output": "list where each element is the product of all elements up to that index"
+  },
+  {
+    "task": "Count Divisors",
+    "input": "positive integer",
+    "output": "integer count of its positive divisors"
+  },
+  {
+    "task": "Alternating Case String",
+    "input": "string",
+    "output": "new string with characters in alternating uppercase and lowercase starting with uppercase"
+  },
+  {
+    "task": "Mirror Number",
+    "input": "non-negative integer",
+    "output": "integer formed by appending the reverse of its digits to the original number"
+  },
+  {
+    "task": "Zip Longest",
+    "input": "first list, second list",
+    "output": "list of tuples pairing elements by index, using None where one list is shorter"
+  },
+  {
+    "task": "Fibonacci Membership Check",
+    "input": "integer n",
+    "output": "boolean indicating whether n is a Fibonacci number"
+  },
+  {
+    "task": "Apply Discount",
+    "input": "list of numbers (prices), number (discount percentage)",
+    "output": "list of discounted prices"
+  },
+  {
+    "task": "Loan Payment Calculator",
+    "input": "principal (float), annual interest rate (percentage as float), loan term (years as int)",
+    "output": "monthly payment amount (float)"
+  },
+  {
+    "task": "Title Words Extractor",
+    "input": "string (sentence)",
+    "output": "list of words starting with an uppercase letter"
+  },
+  {
+    "task": "Max Digit Sequence Length",
+    "input": "string",
+    "output": "integer representing the length of the longest run of consecutive digits"
+  },
+  {
+    "task": "Alternating Sequence Check",
+    "input": "list of numbers",
+    "output": "boolean indicating whether elements alternately increase and decrease"
+  },
+  {
+    "task": "Remove Vowels",
+    "input": "string",
+    "output": "string with all vowels (a, e, i, o, u, both cases) removed"
+  },
+  {
+    "task": "Sum at Multiples of K",
+    "input": "list of integers, integer k",
+    "output": "integer sum of list elements at indices that are multiples of k (0-based)"
+  },
+  {
+    "task": "Password Masker",
+    "input": "string (password)",
+    "output": "string where all characters except the last two are replaced by '*'"
+  },
+  {
+    "task": "Dictionary Maximum by Key",
+    "input": "list of dictionaries and a string key",
+    "output": "the dictionary with the highest value for that key"
+  },
+  {
+    "task": "Group Emails by Domain",
+    "input": "list of email strings",
+    "output": "dictionary mapping each domain to the list of emails with that domain"
+  },
+  {
+    "task": "Unique Pairwise Sums",
+    "input": "list of numbers",
+    "output": "sorted list of unique sums formed by adding every two distinct numbers"
+  },
+  {
+    "task": "H-Index Calculator",
+    "input": "list of non-negative integers (citation counts)",
+    "output": "integer representing the h-index"
+  },
+  {
+    "task": "Remove Duplicates Keep Last",
+    "input": "list of elements",
+    "output": "list with duplicates removed, retaining the last occurrence of each element"
+  },
+  {
+    "task": "Sum of Chunks",
+    "input": "list of numbers and an integer chunk size",
+    "output": "list of sums for each consecutive chunk of the given size (last chunk may be smaller)"
+  },
+  {
+    "task": "Lucky Ticket Checker",
+    "input": "six-character string of digits",
+    "output": "boolean indicating whether the sum of the first three digits equals the sum of the last three digits"
+  },
+  {
+    "task": "Cartesian Product of Lists",
+    "input": "two lists of elements",
+    "output": "list of tuples representing the Cartesian product of the two lists"
+  },
+  {
+    "task": "Mirror Strings",
+    "input": "list of strings",
+    "output": "list where each string is concatenated with its reverse (e.g., \"abc\" \u2192 \"abccba\")"
+  },
+  {
+    "task": "Filter by Frequency Threshold",
+    "input": "list of elements and an integer k",
+    "output": "list of elements that appear at least k times in the original list, in their original order"
+  },
+  {
+    "task": "Remove Whitespace",
+    "input": "a string",
+    "output": "the string with all whitespace characters removed"
+  },
+  {
+    "task": "Filter Divisible Numbers",
+    "input": "a list of integers and an integer divisor",
+    "output": "a list of integers from the input list that are evenly divisible by the divisor"
+  },
+  {
+    "task": "Delete Middle Element",
+    "input": "a list",
+    "output": "the list with its middle element removed (if even length, remove the lower-index middle)"
+  },
+  {
+    "task": "Sum of Character Codes",
+    "input": "a string",
+    "output": "the sum of the ASCII (or Unicode) code points of all characters in the string"
+  },
+  {
+    "task": "Filter Strings by Suffix",
+    "input": "a list of strings and a suffix string",
+    "output": "a list of strings from the input list that end with the given suffix"
+  },
+  {
+    "task": "Evaluate Prefix Expression",
+    "input": "a string representing a prefix (Polish) expression with tokens separated by spaces",
+    "output": "the integer result of evaluating the expression"
+  },
+  {
+    "task": "Convert Decimal to Octal",
+    "input": "an integer in decimal",
+    "output": "a string representing its octal (base-8) form"
+  },
+  {
+    "task": "Check Perfect Power",
+    "input": "an integer",
+    "output": "True if the integer can be expressed as a^b for integers a>0 and b>1, otherwise False"
+  },
+  {
+    "task": "Shuffle Characters",
+    "input": "a string",
+    "output": "a new string with the characters of the input string in random order"
+  },
+  {
+    "task": "List Palindromic Numbers",
+    "input": "integer n",
+    "output": "list of integers from 1 to n (inclusive) that read the same forward and backward"
+  },
+  {
+    "task": "Compute Age",
+    "input": "string birthdate in 'YYYY-MM-DD' format",
+    "output": "integer age in years as of today"
+  },
+  {
+    "task": "Nth Root",
+    "input": "float number, integer n",
+    "output": "float representing the n-th root of number"
+  },
+  {
+    "task": "Count HTML Tags",
+    "input": "string containing HTML content",
+    "output": "dictionary mapping each tag name (string) to its count (integer)"
+  },
+  {
+    "task": "Remove Duplicate Rows",
+    "input": "list of lists of values (matrix)",
+    "output": "new matrix (list of lists) with duplicate rows removed, preserving original order"
+  },
+  {
+    "task": "Parse URL Parameters",
+    "input": "string URL containing query parameters",
+    "output": "dictionary mapping parameter names (strings) to their values (strings)"
+  },
+  {
+    "task": "Reverse Bits",
+    "input": "non-negative integer",
+    "output": "integer whose binary representation is the reverse of the input\u2019s binary (no leading zeros)"
+  },
+  {
+    "task": "Hollow Square Pattern",
+    "input": "integer n",
+    "output": "list of strings where each string is a row of a hollow square of '*' characters of side length n"
+  },
+  {
+    "task": "Longest Even Subsequence",
+    "input": "list of integers",
+    "output": "integer length of the longest consecutive run of even numbers in the list"
+  },
+  {
+    "task": "Column-wise Sort Matrix",
+    "input": "list of lists of numbers (matrix)",
+    "output": "new matrix with each column independently sorted in ascending order"
+  },
+  {
+    "task": "Multiply Odd Index Elements",
+    "input": "A list of integers",
+    "output": "The product of elements at odd indices (1, 3, 5, ...)"
+  },
+  {
+    "task": "Find Element Indices",
+    "input": "A list and a value",
+    "output": "A list of indices where the value occurs in the list"
+  },
+  {
+    "task": "Swap Cases Even Positions",
+    "input": "A string",
+    "output": "A string where characters at even positions (0-based) have their case swapped"
+  },
+  {
+    "task": "Matrix Corner Elements",
+    "input": "A 2D list (matrix)",
+    "output": "A list of the four corner elements of the matrix"
+  },
+  {
+    "task": "Sum of Alphabetical Distances",
+    "input": "A lowercase string",
+    "output": "The sum of distances between consecutive characters based on their positions in the alphabet (a\u2192b distance=1)"
+  },
+  {
+    "task": "Triangle Pattern List",
+    "input": "A character and an integer n",
+    "output": "A list of n strings forming a right triangle pattern using the character"
+  },
+  {
+    "task": "Censor Forbidden Words",
+    "input": "A string and a list of forbidden words",
+    "output": "The string with each forbidden word replaced by asterisks (*) of the same length"
+  },
+  {
+    "task": "Average Min Max",
+    "input": "A list of numbers",
+    "output": "The average (float) of the minimum and maximum values in the list"
+  },
+  {
+    "task": "String to ASCII Codes",
+    "input": "A string",
+    "output": "A list of ASCII integer codes corresponding to each character"
+  },
+  {
+    "task": "Count Vowel Triplets",
+    "input": "A string",
+    "output": "The count of substrings of length three containing only vowels (a, e, i, o, u)"
+  },
+  {
+    "task": "Multiply Elements by Index",
+    "input": "list of integers",
+    "output": "list of integers where each element is the original value multiplied by its index in the list"
+  },
+  {
+    "task": "Count Numbers with Prime Digit Sum",
+    "input": "list of positive integers",
+    "output": "integer count of how many numbers have a sum of digits that is a prime number"
+  },
+  {
+    "task": "Separate Negative and Non-Negative Numbers",
+    "input": "list of integers",
+    "output": "tuple of two lists: first list of all negative numbers, second list of all non-negative numbers in their original order"
+  },
+  {
+    "task": "Replace List Elements by Rank",
+    "input": "list of distinct numbers",
+    "output": "list of integers where each number is replaced by its rank (1 for smallest, 2 for next smallest, etc.)"
+  },
+  {
+    "task": "Remove Sublist",
+    "input": "list of any items, integer start index, integer end index",
+    "output": "list with elements from start index (inclusive) up to end index (exclusive) removed"
+  },
+  {
+    "task": "Secondary Diagonal Sum",
+    "input": "square matrix as a list of lists of numbers",
+    "output": "sum of the elements on the secondary (anti-) diagonal of the matrix"
+  },
+  {
+    "task": "Nearest Neighbor Distances",
+    "input": "sorted list of numbers",
+    "output": "list of floats where each element is the minimum absolute difference between that element and its nearest neighbor in the list"
+  },
+  {
+    "task": "FizzBuzz List",
+    "input": "integer n",
+    "output": "list of length n where for each position i (1-indexed): \u201cFizz\u201d if i divisible by 3, \u201cBuzz\u201d if divisible by 5, \u201cFizzBuzz\u201d if divisible by both, otherwise the integer i"
+  },
+  {
+    "task": "Integer Bit Parity",
+    "input": "non-negative integer",
+    "output": "1 if the number of set bits in its binary representation is odd, otherwise 0"
+  },
+  {
+    "task": "Count Palindromic Substrings",
+    "input": "string",
+    "output": "integer count of all substrings of the input that are palindromes (length \u2265 1)"
+  },
+  {
+    "task": "Generate Multiples",
+    "input": "two integers num and count",
+    "output": "list of integers containing the first count multiples of num"
+  },
+  {
+    "task": "Three List Intersection",
+    "input": "three lists of integers",
+    "output": "list of integers present in all three input lists"
+  },
+  {
+    "task": "Matrix Multiplication Compatibility",
+    "input": "two matrices represented as lists of lists of numbers",
+    "output": "boolean indicating whether the number of columns in the first equals the number of rows in the second"
+  },
+  {
+    "task": "Find Local Maxima Indices",
+    "input": "list of numbers",
+    "output": "list of integer indices where each element is strictly greater than its immediate neighbors"
+  },
+  {
+    "task": "First Duplicate Finder",
+    "input": "list of elements",
+    "output": "the first element that appears more than once, or None if there are no duplicates"
+  },
+  {
+    "task": "Count Distinct Substrings of Length K",
+    "input": "a string and an integer k",
+    "output": "integer count of distinct substrings of length k in the string"
+  },
+  {
+    "task": "Filter Dictionary by Value Threshold",
+    "input": "a dictionary with comparable values and a threshold value",
+    "output": "a dictionary containing only the key\u2013value pairs whose values are greater than the threshold"
+  },
+  {
+    "task": "Circle Circumference Calculator",
+    "input": "float radius",
+    "output": "float circumference of the circle (2 * pi * radius)"
+  },
+  {
+    "task": "Kilometer to Mile Converter",
+    "input": "float kilometers",
+    "output": "float miles (using the conversion 1 km = 0.621371 miles)"
+  },
+  {
+    "task": "Cylinder Volume Calculator",
+    "input": "float radius and float height",
+    "output": "float volume of the cylinder (pi * radius^2 * height)"
+  },
+  {
+    "task": "Sum of Geometric Series",
+    "input": "float first_term, float ratio, int n",
+    "output": "float (sum of first n terms)"
+  },
+  {
+    "task": "Pandigital Number Check",
+    "input": "int number",
+    "output": "bool (True if number contains each digit from 1 to n exactly once)"
+  },
+  {
+    "task": "3D Distance Calculator",
+    "input": "two tuples of floats (x1, y1, z1) and (x2, y2, z2)",
+    "output": "float (Euclidean distance)"
+  },
+  {
+    "task": "RGB to Grayscale",
+    "input": "three ints R, G, B (each 0\u2013255)",
+    "output": "int (grayscale value 0\u2013255)"
+  },
+  {
+    "task": "Compress Number Ranges",
+    "input": "sorted list of ints",
+    "output": "list of strings (consecutive runs as \"start-end\", singles as \"num\")"
+  },
+  {
+    "task": "HTML Entity Decoder",
+    "input": "str containing HTML entities (&amp;, &lt;, &gt;, &quot;, &#39;)",
+    "output": "str (decoded text)"
+  },
+  {
+    "task": "Extract Integers",
+    "input": "list of mixed types",
+    "output": "list of ints (all integer elements in original order)"
+  },
+  {
+    "task": "ASCII Only Check",
+    "input": "str",
+    "output": "bool (True if all characters are in ASCII range)"
+  },
+  {
+    "task": "Matrix Column Sum",
+    "input": "list of equal-length lists of numbers",
+    "output": "list of numbers (sum of each column)"
+  },
+  {
+    "task": "Even Digit Count",
+    "input": "list of non-negative ints",
+    "output": "int (count of numbers with an even number of digits)"
+  },
+  {
+    "task": "Age Group Classifier",
+    "input": "integer (age)",
+    "output": "string (\"Child\", \"Teen\", \"Adult\" or \"Senior\")"
+  },
+  {
+    "task": "Month Name Converter",
+    "input": "integer (1\u201312)",
+    "output": "string (month name, e.g. \"January\")"
+  },
+  {
+    "task": "Atbash Cipher",
+    "input": "string",
+    "output": "string (Atbash\u2010encoded text)"
+  },
+  {
+    "task": "Sum of Prime Digits",
+    "input": "integer",
+    "output": "integer (sum of digits that are 2, 3, 5 or 7)"
+  },
+  {
+    "task": "Split Digits by Parity",
+    "input": "integer",
+    "output": "two lists of integers: (even_digits, odd_digits)"
+  },
+  {
+    "task": "Word with Most Vowels",
+    "input": "string (sentence)",
+    "output": "string (word containing the highest number of vowels)"
+  },
+  {
+    "task": "Add Two Matrices",
+    "input": "two lists of lists of numbers of equal dimensions",
+    "output": "list of lists of numbers (element-wise sum)"
+  },
+  {
+    "task": "Longest Unique-Character Substring",
+    "input": "string",
+    "output": "string (longest substring without repeating characters)"
+  },
+  {
+    "task": "Replace with First Occurrence Index",
+    "input": "list of elements",
+    "output": "list of integers where each element is replaced by the index of its first occurrence"
+  },
+  {
+    "task": "Second Most Frequent Element",
+    "input": "list of hashable elements",
+    "output": "element (the one with the second highest frequency)"
+  },
+  {
+    "task": "Double Characters",
+    "input": "a string",
+    "output": "a string where each character from the input is repeated twice"
+  },
+  {
+    "task": "Multiplicative Digital Root",
+    "input": "a positive integer",
+    "output": "the single-digit result obtained by repeatedly multiplying the digits until one digit remains"
+  },
+  {
+    "task": "Kebab to Snake Case",
+    "input": "a string in kebab-case",
+    "output": "the string converted to snake_case"
+  },
+  {
+    "task": "Chebyshev Distance",
+    "input": "two tuples of equal length containing numeric coordinates",
+    "output": "the Chebyshev distance (maximum absolute difference) between the two points"
+  },
+  {
+    "task": "Longest Palindromic Word",
+    "input": "a string containing words separated by spaces",
+    "output": "the longest word in the input that reads the same forwards and backwards"
+  },
+  {
+    "task": "Sort Words by Last Character",
+    "input": "a string containing words separated by spaces",
+    "output": "a list of words sorted in ascending order by their last character"
+  },
+  {
+    "task": "Swap Adjacent Characters",
+    "input": "a string",
+    "output": "a string where each pair of adjacent characters is swapped (if length is odd, last character remains)"
+  },
+  {
+    "task": "Integer to Gray Code",
+    "input": "a non-negative integer",
+    "output": "a string representing the binary Gray code of the input integer"
+  },
+  {
+    "task": "Collatz Sequence Generator",
+    "input": "a positive integer",
+    "output": "a list of integers representing the Collatz sequence starting from the input and ending at 1"
+  },
+  {
+    "task": "Find Local Minima Indices",
+    "input": "List of numbers",
+    "output": "List of indices where each element is strictly less than its immediate neighbors"
+  },
+  {
+    "task": "Divisible by Digit Sum",
+    "input": "List of positive integers",
+    "output": "List of booleans indicating if each integer is divisible by the sum of its digits"
+  },
+  {
+    "task": "Count Pairs Divisible by K",
+    "input": "List of integers, integer K",
+    "output": "Integer count of unique unordered pairs whose sum is divisible by K"
+  },
+  {
+    "task": "Remove Until Sum",
+    "input": "List of positive integers, integer threshold",
+    "output": "List of elements removed from the start until their cumulative sum is at least the threshold"
+  },
+  {
+    "task": "Union and Intersection of Sets",
+    "input": "List of sets of integers",
+    "output": "Tuple of two sets: (union of all sets, intersection of all sets)"
+  },
+  {
+    "task": "Wave Sort",
+    "input": "List of integers",
+    "output": "List rearranged into wave form by sorting then swapping each adjacent pair"
+  },
+  {
+    "task": "Center Align Text",
+    "input": "List of strings",
+    "output": "List of strings padded with spaces to center each string based on the longest string length"
+  },
+  {
+    "task": "Validate MAC Address",
+    "input": "String",
+    "output": "Boolean indicating whether it is a valid MAC address (six pairs of hexadecimal digits separated by colons)"
+  },
+  {
+    "task": "Alternating Digit Sum",
+    "input": "Integer",
+    "output": "Integer equal to the sum of its digits with alternating signs starting with positive for the most significant digit"
+  },
+  {
+    "task": "Quadrant Point Count",
+    "input": "List of tuples (x, y) coordinates",
+    "output": "Dictionary with keys 'Q1','Q2','Q3','Q4' and counts of points in each quadrant (exclude points on axes)"
+  },
+  {
+    "task": "Levenshtein Distance",
+    "input": "Two strings",
+    "output": "Integer representing the minimum edit distance between them"
+  },
+  {
+    "task": "Main Diagonal Product",
+    "input": "Square matrix as a list of lists of numbers",
+    "output": "Product of the main diagonal elements"
+  },
+  {
+    "task": "Sum of Primes in Matrix",
+    "input": "Two-dimensional list of integers",
+    "output": "Sum of all prime numbers in the matrix"
+  },
+  {
+    "task": "Insertion Sort",
+    "input": "List of numbers",
+    "output": "List of numbers sorted in ascending order"
+  },
+  {
+    "task": "List Permutation Check",
+    "input": "Two lists",
+    "output": "Boolean indicating whether one list is a permutation of the other"
+  },
+  {
+    "task": "Smallest Missing Even Number",
+    "input": "List of integers",
+    "output": "Smallest missing positive even integer"
+  },
+  {
+    "task": "String Overlap Length",
+    "input": "Two strings",
+    "output": "Length of the longest suffix of the first string matching a prefix of the second"
+  },
+  {
+    "task": "Z-Score Normalization",
+    "input": "List of numbers",
+    "output": "List of numbers normalized by z-score (x\u2212mean)/standard_deviation"
+  },
+  {
+    "task": "Longest Decreasing Run",
+    "input": "List of numbers",
+    "output": "Length of the longest contiguous strictly decreasing subsequence"
+  },
+  {
+    "task": "Extract Even-Position Characters",
+    "input": "A string",
+    "output": "String formed by characters at even indices (0-based)"
+  },
+  {
+    "task": "Time to Minutes",
+    "input": "three integers representing days, hours, and minutes",
+    "output": "integer total minutes"
+  },
+  {
+    "task": "Longest Increasing Digit Run",
+    "input": "integer",
+    "output": "integer length of the longest run of strictly increasing consecutive digits"
+  },
+  {
+    "task": "Count Binary Palindromes",
+    "input": "list of integers",
+    "output": "integer count of numbers whose binary representation is a palindrome"
+  },
+  {
+    "task": "Divisible by Three Check",
+    "input": "integer",
+    "output": "boolean indicating if the integer is divisible by 3"
+  },
+  {
+    "task": "List Proper Divisors",
+    "input": "integer",
+    "output": "list of integers representing all proper divisors of the integer (excluding itself)"
+  },
+  {
+    "task": "ASCII Difference Sum",
+    "input": "string",
+    "output": "integer sum of absolute differences between ASCII values of adjacent characters"
+  },
+  {
+    "task": "Alternate Word Capitalization",
+    "input": "string of words separated by spaces",
+    "output": "string where every second word is capitalized"
+  },
+  {
+    "task": "Reverse Vowels",
+    "input": "string",
+    "output": "string with the vowels\u2019 positions reversed"
+  },
+  {
+    "task": "Kth Bit Value",
+    "input": "two integers: number and k (0-based index)",
+    "output": "integer (0 or 1) representing the k-th bit of the number"
+  },
+  {
+    "task": "3D Vector Cross Product",
+    "input": "two lists of three numbers",
+    "output": "a list of three numbers representing the cross product"
+  },
+  {
+    "task": "Unit Vector",
+    "input": "a list of three numbers",
+    "output": "a list of three floats representing the normalized (unit) vector"
+  },
+  {
+    "task": "Remove Duplicate Words",
+    "input": "a string",
+    "output": "a string with duplicate words removed, preserving their original order"
+  },
+  {
+    "task": "Consecutive Differences",
+    "input": "a list of numbers",
+    "output": "a list of numbers representing the differences between successive elements"
+  },
+  {
+    "task": "Chessboard Pattern",
+    "input": "an integer n",
+    "output": "a two\u2010dimensional n\u00d7n list with entries 'B' and 'W' in alternating pattern"
+  },
+  {
+    "task": "Remove Every Nth Character",
+    "input": "a string and an integer n",
+    "output": "a string with every n\u1d57\u02b0 character removed"
+  },
+  {
+    "task": "Missing Rectangle Corner",
+    "input": "three tuples of two integers (x, y) representing axis\u2010aligned rectangle vertices",
+    "output": "a tuple of two integers for the fourth corner"
+  },
+  {
+    "task": "Linear Interpolation",
+    "input": "two numbers (start, end) and an integer n > 1",
+    "output": "a list of n evenly spaced numbers from start to end inclusive"
+  },
+  {
+    "task": "All Elements Unique",
+    "input": "a list of elements",
+    "output": "a boolean indicating whether all elements are unique"
+  },
+  {
+    "task": "Common Unique Characters Count",
+    "input": "two strings",
+    "output": "an integer count of unique characters present in both strings"
+  }
+]
